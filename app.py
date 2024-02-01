@@ -30,7 +30,8 @@ def preprocessing_data(data):
     return data
 
 def predict(data, model):
-    X = data[["umur", "gender", "periode_transaksi"]]
+    X = data[["umur", "gender", "occupation_group", "periode_transaksi"]]
+    X["occupation_group"] = LabelEncoder().fit_transform(X["occupation_group"])
     nominal = LabelEncoder().fit(data["kategori_nominal"])
     predicts = model.predict(X)
     labels = nominal.inverse_transform(predicts)
@@ -39,8 +40,9 @@ def predict(data, model):
 def split(data):
     nominal = LabelEncoder().fit(data["kategori_nominal"])
     data["kategori_nominal"] = nominal.transform(data["kategori_nominal"])
-    
-    X = data[["umur", "gender", "periode_transaksi"]]
+    data["occupation_group"] = LabelEncoder().fit_transform(data["occupation_group"])
+
+    X = data[["umur", "gender", "occupation_group", "periode_transaksi"]]
     y = data["kategori_nominal"]
     
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=.2, random_state=42)
