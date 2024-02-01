@@ -58,10 +58,6 @@ if uploaded_file is not None:
     st.subheader("Struktur Data yang Diunggah")
     st.write(data.head())
 
-    # Tampilkan statistik deskriptif
-    st.subheader("Statistik Deskriptif")
-    st.write(data.describe())
-
     # Lakukan prediksi
     predictions, labels = predict(data, model)
 
