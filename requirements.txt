@@ -5,3 +5,4 @@
 # seaborn==0.12.2
 # streamlit==1.30.0
 # matplotlib==3.7.2
+# joblib==23.3.2
