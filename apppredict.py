@@ -4,6 +4,12 @@ import numpy as np
 import joblib
 from sklearn.preprocessing import LabelEncoder
 
+try:
+    import joblib
+except ModuleNotFoundError:
+    print("Module 'joblib' not found. Please make sure it is installed.")
+    # atau Anda bisa menambahkan kode untuk menginstal 'joblib' otomatis di sini
+
 # Load model
 model = joblib.load("model_prediction_fundraising.pkl")
 
