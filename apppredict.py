@@ -38,11 +38,13 @@ def main():
                                                  "Akuntansi", "Kesehatan", "Energi", "Marketing", "Teknisi",
                                                  "Auditor", "Freelancer", "Transportasi", "TNI/POLRI", "Dokter"])
         le_periode_transaksi = LabelEncoder().fit(["Reguler", "Ramadhan", "Kurban"])
+        le_kategori_nominal = LabelEncoder().fit(["Nominal Tinggi", "Nominal Diatas Rata-rata", "Nominal Sedang", "Nominal Rendah"])
 
         # Mengganti nilai kategori dengan label encoding
         data[0][1] = le_gender.transform([data[0][1]])[0]
         data[0][2] = le_occupation_group.transform([data[0][2]])[0]
         data[0][3] = le_periode_transaksi.transform([data[0][3]])[0]
+        data[0][4] = le_kategori_nominal.transform([data[0][4]])[0]
 
         # Prediksi dengan model
         result = predict(data)
