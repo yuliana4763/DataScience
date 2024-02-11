@@ -22,7 +22,7 @@ st.sidebar.write("Aplikasi ini memprediksi hasil fundraising menggunakan model y
 st.sidebar.markdown("Hubungi kami di [yuliana111099@gmail.com](mailto:yuliana111099@gmail.com) untuk informasi lebih lanjut.")
 st.sidebar.markdown("[Kunjungi situs web BAZNAS RI](https://baznas.go.id)")
 st.sidebar.markdown("Jika ingin melakukan prediksi terhadap satu data, klik link berikut.")
-st.sidebar.markdown("[Prediksi Satu Data]("https://apppredict-ver2.streamlit.app/")
+st.sidebar.markdown("[Prediksi Satu Data](https://apppredict-ver2.streamlit.app/")
 
 # Upload file CSV
 uploaded_file = st.file_uploader("Upload a CSV file", type=["csv"])
