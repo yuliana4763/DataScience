@@ -4,12 +4,6 @@ import numpy as np
 import joblib
 from sklearn.preprocessing import LabelEncoder
 
-try:
-    import joblib
-except ModuleNotFoundError:
-    print("Module 'joblib' not found. Please make sure it is installed.")
-    # atau Anda bisa menambahkan kode untuk menginstal 'joblib' otomatis di sini
-
 # Load model
 model = joblib.load("model_prediction_fundraising.pkl")
 
@@ -30,6 +24,7 @@ def main():
                                                          "Akuntansi", "Kesehatan", "Energi", "Marketing", "Teknisi",
                                                          "Auditor", "Freelancer", "Transportasi", "TNI/POLRI", "Dokter"])
     periode_transaksi = st.selectbox("Periode Transaksi", ["Reguler", "Ramadhan", "Kurban"])
+    kategori_nominal = st.selectbox("Kategori Nominal", ["Nominal Tinggi", "Nominal Diatas Rata-rata", "Nominal Sedang", "Nominal Rendah"]))
     
     # Prediksi
     if st.button("Prediksi Fundraising"):
