@@ -41,7 +41,6 @@ def main():
         le_kategori_nominal = LabelEncoder().fit(["Nominal Tinggi", "Nominal Diatas Rata-rata", "Nominal Sedang", "Nominal Rendah"])
 
         # Transformasi input menjadi array untuk prediksi
-        # input_data = np.array([[umur, gender, occupation_group, periode_transaksi, kategori_nominal]])
         input_data[:, 1] = le_gender.transform(input_data[:, 1])
         input_data[:, 2] = le_occupation_group.transform(input_data[:, 2])
         input_data[:, 3] = le_periode_transaksi.transform(input_data[:, 3])
