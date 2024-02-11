@@ -24,7 +24,7 @@ def main():
                                                          "Akuntansi", "Kesehatan", "Energi", "Marketing", "Teknisi",
                                                          "Auditor", "Freelancer", "Transportasi", "TNI/POLRI", "Dokter"])
     periode_transaksi = st.selectbox("Periode Transaksi", ["Reguler", "Ramadhan", "Kurban"])
-    kategori_nominal = st.selectbox("Kategori Nominal", ["Nominal Tinggi", "Nominal Diatas Rata-rata", "Nominal Sedang", "Nominal Rendah"]))
+    kategori_nominal = st.selectbox("Kategori Nominal", ["Nominal Tinggi", "Nominal Diatas Rata-rata", "Nominal Sedang", "Nominal Rendah"])
     
     # Prediksi
     if st.button("Prediksi Fundraising"):
