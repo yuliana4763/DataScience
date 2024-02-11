@@ -74,22 +74,16 @@ if uploaded_file is not None:
     # Terapkan fungsi map_to_categorical pada kolom predictions
     predictions_categorical = list(map(map_to_categorical, predictions_numeric))
 
-    # Hasil prediksi
-    labels = np.array([0])  
-    
-    data_df = data.copy()  # Salin DataFrame untuk mempertahankan data asli
-    data_df["predictions"] = predictions
+   # Hasil prediksi
+    data["predictions"] = predictions_categorical
 
-    # Menambahkan kolom baru ke dalam DataFrame hasil prediksi
-    data_df['predictions'] = predictions_categorical
-
-    st.write(data_df)
+    st.write(data)
 
     # Visualisasi hasil prediksi
     st.subheader("Visualisasi Hasil Prediksi")
 
     # Menghitung frekuensi masing-masing kategori
-    prediction_counts = data_df['predictions'].value_counts()
+    prediction_counts = data['predictions'].value_counts()
 
     # Membuat plot bar untuk menampilkan distribusi hasil prediksi
     fig, ax = plt.subplots(figsize=(8, 5))
