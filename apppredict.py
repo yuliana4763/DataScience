@@ -40,10 +40,12 @@ def main():
         le_periode_transaksi = LabelEncoder().fit(["Reguler", "Ramadhan", "Kurban"])
         le_kategori_nominal = LabelEncoder().fit(["Nominal Tinggi", "Nominal Diatas Rata-rata", "Nominal Sedang", "Nominal Rendah"])
 
-        # Mengganti nilai kategori dengan label encoding
-        data[0][1] = le_gender.transform([data[0][1]])[0]
-        data[0][2] = le_occupation_group.transform([data[0][2]])[0]
-        data[0][3] = le_periode_transaksi.transform([data[0][3]])[0]
+        # Transformasi input menjadi array untuk prediksi
+        input_data = np.array([[umur, gender, occupation_group, periode_transaksi, kategori_nominal]])
+        input_data[:, 1] = le_gender.transform(input_data[:, 1])
+        input_data[:, 2] = le_occupation_group.transform(input_data[:, 2])
+        input_data[:, 3] = le_periode_transaksi.transform(input_data[:, 3])
+        input_data[:, 4] = le_kategori_nominal.transform(input_data[:, 4])
         
 
         # Prediksi dengan model
