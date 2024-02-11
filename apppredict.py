@@ -44,7 +44,7 @@ def main():
         data[0][1] = le_gender.transform([data[0][1]])[0]
         data[0][2] = le_occupation_group.transform([data[0][2]])[0]
         data[0][3] = le_periode_transaksi.transform([data[0][3]])[0]
-        data[0][4] = le_kategori_nominal.transform([data[0][4]])[0]
+        
 
         # Prediksi dengan model
         result = predict(data)
