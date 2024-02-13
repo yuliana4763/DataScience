@@ -57,6 +57,10 @@ def split(data):
 if uploaded_file is not None:
     # Baca data dari file CSV
     data = preprocessing_data(uploaded_file)
+    data = pd.read_csv(data)
+    data.drop(["Unnamed: 0"], axis=1, inplace=True)
+    
+    return data
 
     # Lakukan prediksi
     predictions, labels = predict(data, model)
