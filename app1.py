@@ -39,6 +39,7 @@ def predict(data, model):
     nominal = LabelEncoder().fit(data["kategori_nominal"])
     predicts = model.predict(X)
     labels = nominal.inverse_transform(predicts)
+    data.drop(["Unnamed: 0"], axis=1, inplace=True)
     return predicts, labels
 
 def split(data):
@@ -46,6 +47,7 @@ def split(data):
     data["kategori_nominal"] = nominal.transform(data["kategori_nominal"])
     data["occupation_group"] = LabelEncoder().fit_transform(data["occupation_group"])
     data.drop(["kategori_nominal"], axis=1, inplace=True)
+    data.drop(["Unnamed: 0"], axis=1, inplace=True)
 
     X = data[["umur", "gender", "occupation_group", "nominal", "periode_transaksi"]]
     y = data["kategori_nominal"]
