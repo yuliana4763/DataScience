@@ -29,7 +29,6 @@ uploaded_file = st.file_uploader("Upload a CSV file", type=["csv"])
 
 def preprocessing_data(data):
     data = pd.read_csv(data)
-    data.drop(["Unnamed: 0"], axis=1, inplace=True)
     
     return data
 
