@@ -47,7 +47,7 @@ def split(data):
     data["occupation_group"] = LabelEncoder().fit_transform(data["occupation_group"])
     data.drop(["kategori_nominal"], axis=1, inplace=True)
 
-    X = data[["umur", "gender", "occupation_group", "periode_transaksi"]]
+    X = data[["umur", "gender", "occupation_group", "nominal", "periode_transaksi"]]
     y = data["kategori_nominal"]
     
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=.2, random_state=42)
