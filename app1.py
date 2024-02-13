@@ -34,7 +34,7 @@ def preprocessing_data(data):
     return data
 
 def predict(data, model):
-    X = data[["umur", "gender", "occupation_group", "periode_transaksi"]]
+    X = data[["umur", "gender", "occupation_group", "nominal", "periode_transaksi"]]
     X["occupation_group"] = LabelEncoder().fit_transform(X["occupation_group"])
     nominal = LabelEncoder().fit(data["kategori_nominal"])
     predicts = model.predict(X)
