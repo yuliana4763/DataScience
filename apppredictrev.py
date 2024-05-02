@@ -5,7 +5,7 @@ import joblib
 from sklearn.preprocessing import LabelEncoder
 
 # Load model
-model = joblib.load('model_prediction_fundraising.pkl')
+model = joblib.load('C:/Users/ACER/SKRIPSI YULIANA APP/DataScience/model_prediction_fundraising1.pkl')
 
 # Fungsi prediksi
 def predict(data):
