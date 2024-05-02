@@ -7,7 +7,7 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.model_selection import train_test_split
 
 # Load the pretrained model
-model = joblib.load('model_prediction_fundraising.pkl')
+model = joblib.load('C:/Users/ACER/SKRIPSI YULIANA APP/DataScience/model_prediction_fundraising1.pkl')
 
 st.title("BAZNAS RI Digital Fundraising Prediction Application")
 
