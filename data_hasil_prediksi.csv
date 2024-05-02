@@ -1,0 +1,1581 @@
+﻿,umur,gender,occupation_group,periode_transaksi,Predictions
+0,42,pria,IT,Reguler,Nominal Sedang
+1,42,pria,Wiraswasta,Kurban,Nominal Diatas Rata-rata
+2,40,wanita,Wiraswasta,Ramadhan,Nominal Diatas Rata-rata
+3,40,wanita,Tidak Bekerja,Reguler,Nominal Sedang
+4,38,pria,Wiraswasta,Reguler,Nominal Sedang
+5,32,wanita,Staff,Reguler,Nominal Sedang
+6,30,pria,Teknisi,Ramadhan,Nominal Diatas Rata-rata
+7,28,pria,Staff,Reguler,Nominal Sedang
+8,34,pria,Staff,Reguler,Nominal Sedang
+9,42,pria,Tidak Bekerja,Reguler,Nominal Sedang
+10,34,pria,Amil,Reguler,Nominal Tinggi
+11,45,pria,Amil,Kurban,Nominal Tinggi
+12,31,pria,Amil,Kurban,Nominal Tinggi
+13,42,pria,PNS,Ramadhan,Nominal Diatas Rata-rata
+14,40,pria,Amil,Reguler,Nominal Tinggi
+15,47,pria,Industri,Reguler,Nominal Sedang
+16,32,pria,Pegawai Swasta,Reguler,Nominal Sedang
+17,40,wanita,Tidak Bekerja,Reguler,Nominal Sedang
+18,44,pria,Amil,Ramadhan,Nominal Tinggi
+19,34,pria,TNI/POLRI,Reguler,Nominal Sedang
+20,38,wanita,Lainnya,Kurban,Nominal Rendah
+21,49,pria,Wiraswasta,Reguler,Nominal Sedang
+22,44,pria,Kesehatan,Reguler,Nominal Sedang
+23,34,wanita,Amil,Reguler,Nominal Tinggi
+24,40,pria,Amil,Reguler,Nominal Tinggi
+25,46,wanita,PNS,Reguler,Nominal Sedang
+26,33,pria,Amil,Reguler,Nominal Tinggi
+27,29,wanita,Amil,Ramadhan,Nominal Tinggi
+28,33,wanita,Amil,Reguler,Nominal Tinggi
+29,42,pria,Amil,Reguler,Nominal Tinggi
+30,50,pria,Wiraswasta,Ramadhan,Nominal Diatas Rata-rata
+31,40,pria,PNS,Ramadhan,Nominal Diatas Rata-rata
+32,45,pria,Amil,Reguler,Nominal Tinggi
+33,37,pria,Industri,Reguler,Nominal Sedang
+34,41,pria,Amil,Reguler,Nominal Tinggi
+35,31,wanita,PNS,Ramadhan,Nominal Diatas Rata-rata
+36,39,pria,PNS,Reguler,Nominal Sedang
+37,40,pria,PNS,Reguler,Nominal Sedang
+38,32,wanita,Konsultan,Ramadhan,Nominal Rendah
+39,27,pria,Pegawai Swasta,Reguler,Nominal Sedang
+40,39,pria,Industri,Ramadhan,Nominal Rendah
+41,31,pria,Lainnya,Reguler,Nominal Sedang
+42,42,pria,Wiraswasta,Reguler,Nominal Sedang
+43,47,pria,Amil,Reguler,Nominal Tinggi
+44,33,pria,PNS,Reguler,Nominal Sedang
+45,29,wanita,Lainnya,Reguler,Nominal Sedang
+46,40,pria,Konsultan,Reguler,Nominal Sedang
+47,40,pria,Tidak Bekerja,Reguler,Nominal Sedang
+48,34,pria,Lainnya,Reguler,Nominal Sedang
+49,32,pria,Amil,Ramadhan,Nominal Tinggi
+50,28,pria,Pegawai Swasta,Reguler,Nominal Sedang
+51,36,pria,Amil,Ramadhan,Nominal Tinggi
+52,32,pria,Lainnya,Reguler,Nominal Sedang
+53,32,pria,Kesehatan,Reguler,Nominal Sedang
+54,36,pria,Amil,Reguler,Nominal Tinggi
+55,37,pria,Amil,Reguler,Nominal Tinggi
+56,38,pria,Amil,Ramadhan,Nominal Tinggi
+57,31,pria,PNS,Reguler,Nominal Sedang
+58,36,pria,Amil,Reguler,Nominal Tinggi
+59,46,pria,Wiraswasta,Reguler,Nominal Sedang
+60,34,pria,Staff,Ramadhan,Nominal Diatas Rata-rata
+61,38,pria,Energi,Reguler,Nominal Sedang
+62,39,wanita,Pegawai Swasta,Kurban,Nominal Diatas Rata-rata
+63,57,pria,Akuntansi,Ramadhan,Nominal Tinggi
+64,65,pria,Wiraswasta,Ramadhan,Nominal Diatas Rata-rata
+65,41,pria,Wiraswasta,Ramadhan,Nominal Diatas Rata-rata
+66,33,pria,PNS,Ramadhan,Nominal Diatas Rata-rata
+67,69,pria,Lainnya,Ramadhan,Nominal Rendah
+68,29,pria,Amil,Ramadhan,Nominal Tinggi
+69,51,wanita,Amil,Ramadhan,Nominal Tinggi
+70,66,pria,Wiraswasta,Reguler,Nominal Sedang
+71,38,pria,Transportasi,Reguler,Nominal Sedang
+72,41,pria,Kesehatan,Reguler,Nominal Sedang
+73,39,wanita,Amil,Kurban,Nominal Tinggi
+74,36,wanita,Pegawai Swasta,Reguler,Nominal Sedang
+75,31,wanita,Konsultan,Reguler,Nominal Sedang
+76,31,wanita,Konsultan,Reguler,Nominal Sedang
+77,38,wanita,Lainnya,Reguler,Nominal Sedang
+78,69,pria,Wiraswasta,Reguler,Nominal Sedang
+79,40,pria,Amil,Reguler,Nominal Tinggi
+80,42,pria,Amil,Reguler,Nominal Tinggi
+81,33,pria,Wiraswasta,Reguler,Nominal Sedang
+82,30,pria,Kesehatan,Ramadhan,Nominal Rendah
+83,37,wanita,PNS,Reguler,Nominal Sedang
+84,51,pria,Lainnya,Ramadhan,Nominal Rendah
+85,79,pria,Dokter,Reguler,Nominal Sedang
+86,42,pria,Tidak Bekerja,Reguler,Nominal Sedang
+87,38,pria,PNS,Reguler,Nominal Sedang
+88,40,pria,Amil,Ramadhan,Nominal Tinggi
+89,46,pria,Wiraswasta,Reguler,Nominal Sedang
+90,34,pria,Marketing,Reguler,Nominal Sedang
+91,38,wanita,Lainnya,Reguler,Nominal Sedang
+92,40,pria,Tidak Bekerja,Reguler,Nominal Sedang
+93,38,pria,PNS,Kurban,Nominal Diatas Rata-rata
+94,32,pria,Lainnya,Reguler,Nominal Sedang
+95,51,pria,Lainnya,Reguler,Nominal Sedang
+96,39,pria,Wiraswasta,Kurban,Nominal Diatas Rata-rata
+97,30,pria,Kesehatan,Ramadhan,Nominal Rendah
+98,40,pria,PNS,Reguler,Nominal Sedang
+99,42,pria,Wiraswasta,Reguler,Nominal Sedang
+100,55,pria,Lainnya,Reguler,Nominal Sedang
+101,40,wanita,Tidak Bekerja,Reguler,Nominal Sedang
+102,50,wanita,PNS,Reguler,Nominal Sedang
+103,44,pria,PNS,Kurban,Nominal Diatas Rata-rata
+104,30,wanita,PNS,Reguler,Nominal Sedang
+105,45,wanita,Amil,Kurban,Nominal Tinggi
+106,40,pria,Tidak Bekerja,Reguler,Nominal Sedang
+107,35,pria,Amil,Reguler,Nominal Tinggi
+108,29,wanita,Lainnya,Reguler,Nominal Sedang
+109,39,wanita,Amil,Ramadhan,Nominal Tinggi
+110,50,pria,Amil,Kurban,Nominal Tinggi
+111,44,pria,PNS,Reguler,Nominal Sedang
+112,31,wanita,Amil,Ramadhan,Nominal Tinggi
+113,31,wanita,Staff,Reguler,Nominal Sedang
+114,69,pria,Lainnya,Ramadhan,Nominal Rendah
+115,32,pria,Lainnya,Ramadhan,Nominal Rendah
+116,38,wanita,Lainnya,Reguler,Nominal Sedang
+117,69,pria,Lainnya,Ramadhan,Nominal Rendah
+118,50,wanita,PNS,Reguler,Nominal Sedang
+119,31,pria,Industri,Reguler,Nominal Sedang
+120,34,pria,Industri,Reguler,Nominal Sedang
+121,40,pria,Tidak Bekerja,Reguler,Nominal Sedang
+122,50,pria,Wiraswasta,Kurban,Nominal Diatas Rata-rata
+123,33,wanita,Pegawai Swasta,Reguler,Nominal Sedang
+124,44,pria,Industri,Reguler,Nominal Sedang
+125,55,pria,Tidak Bekerja,Reguler,Nominal Sedang
+126,35,pria,Amil,Ramadhan,Nominal Tinggi
+127,41,pria,Amil,Reguler,Nominal Tinggi
+128,35,pria,Akuntansi,Reguler,Nominal Tinggi
+129,53,pria,PNS,Reguler,Nominal Sedang
+130,42,pria,Tidak Bekerja,Kurban,Nominal Diatas Rata-rata
+131,38,pria,PNS,Kurban,Nominal Diatas Rata-rata
+132,28,wanita,Industri,Reguler,Nominal Sedang
+133,45,pria,Amil,Reguler,Nominal Tinggi
+134,30,pria,Amil,Reguler,Nominal Tinggi
+135,38,pria,Amil,Kurban,Nominal Tinggi
+136,49,pria,Wiraswasta,Reguler,Nominal Sedang
+137,30,pria,Amil,Reguler,Nominal Tinggi
+138,52,pria,Tidak Bekerja,Kurban,Nominal Diatas Rata-rata
+139,37,pria,Akuntansi,Reguler,Nominal Tinggi
+140,35,pria,Amil,Ramadhan,Nominal Tinggi
+141,27,wanita,Pegawai Swasta,Reguler,Nominal Sedang
+142,53,pria,IT,Reguler,Nominal Sedang
+143,46,wanita,Akuntansi,Reguler,Nominal Tinggi
+144,40,pria,PNS,Reguler,Nominal Sedang
+145,27,pria,Pegawai Swasta,Ramadhan,Nominal Diatas Rata-rata
+146,33,pria,Konsultan,Reguler,Nominal Sedang
+147,34,pria,Industri,Reguler,Nominal Sedang
+148,60,wanita,PNS,Reguler,Nominal Sedang
+149,33,pria,Energi,Kurban,Nominal Tinggi
+150,29,wanita,Akuntansi,Reguler,Nominal Tinggi
+151,27,pria,Pegawai Swasta,Reguler,Nominal Sedang
+152,33,pria,Lainnya,Ramadhan,Nominal Rendah
+153,31,pria,Pegawai Swasta,Reguler,Nominal Sedang
+154,56,pria,Amil,Reguler,Nominal Tinggi
+155,44,wanita,Pegawai Swasta,Reguler,Nominal Sedang
+156,40,pria,Staff,Reguler,Nominal Sedang
+157,50,pria,Amil,Reguler,Nominal Tinggi
+158,35,pria,Amil,Reguler,Nominal Tinggi
+159,39,pria,Amil,Kurban,Nominal Tinggi
+160,40,pria,Tidak Bekerja,Reguler,Nominal Sedang
+161,31,wanita,Amil,Reguler,Nominal Tinggi
+162,51,pria,Lainnya,Reguler,Nominal Sedang
+163,49,pria,Wiraswasta,Reguler,Nominal Sedang
+164,50,wanita,Pegawai Swasta,Reguler,Nominal Sedang
+165,69,pria,Lainnya,Ramadhan,Nominal Rendah
+166,32,wanita,Staff,Reguler,Nominal Sedang
+167,42,pria,Tidak Bekerja,Ramadhan,Nominal Diatas Rata-rata
+168,37,pria,Pegawai Swasta,Reguler,Nominal Sedang
+169,33,pria,Konsultan,Reguler,Nominal Sedang
+170,40,pria,Tidak Bekerja,Reguler,Nominal Sedang
+171,38,wanita,Lainnya,Reguler,Nominal Sedang
+172,59,pria,Tidak Bekerja,Reguler,Nominal Sedang
+173,33,wanita,Staff,Reguler,Nominal Sedang
+174,50,pria,Wiraswasta,Reguler,Nominal Sedang
+175,63,wanita,Pegawai Swasta,Reguler,Nominal Sedang
+176,48,pria,Amil,Ramadhan,Nominal Tinggi
+177,80,pria,Amil,Reguler,Nominal Tinggi
+178,62,wanita,Amil,Reguler,Nominal Tinggi
+179,22,pria,Amil,Ramadhan,Nominal Tinggi
+180,38,wanita,Lainnya,Reguler,Nominal Sedang
+181,36,wanita,Amil,Reguler,Nominal Tinggi
+182,36,wanita,Freelancer,Reguler,Nominal Sedang
+183,37,pria,Akuntansi,Reguler,Nominal Tinggi
+184,43,pria,Tidak Bekerja,Ramadhan,Nominal Diatas Rata-rata
+185,40,wanita,Tidak Bekerja,Reguler,Nominal Sedang
+186,31,wanita,Konsultan,Reguler,Nominal Sedang
+187,40,wanita,Konsultan,Reguler,Nominal Sedang
+188,40,pria,Amil,Reguler,Nominal Tinggi
+189,32,pria,Konsultan,Reguler,Nominal Sedang
+190,32,pria,PNS,Reguler,Nominal Sedang
+191,35,pria,Amil,Ramadhan,Nominal Tinggi
+192,44,pria,Tidak Bekerja,Ramadhan,Nominal Diatas Rata-rata
+193,30,wanita,Lainnya,Ramadhan,Nominal Rendah
+194,32,wanita,Amil,Reguler,Nominal Tinggi
+195,46,pria,Amil,Ramadhan,Nominal Tinggi
+196,38,pria,Amil,Ramadhan,Nominal Tinggi
+197,40,pria,Tidak Bekerja,Reguler,Nominal Sedang
+198,39,pria,Pegawai Swasta,Reguler,Nominal Sedang
+199,34,pria,Wiraswasta,Reguler,Nominal Sedang
+200,40,pria,Tidak Bekerja,Reguler,Nominal Sedang
+201,41,pria,Amil,Reguler,Nominal Tinggi
+202,45,wanita,PNS,Reguler,Nominal Sedang
+203,42,pria,Lainnya,Reguler,Nominal Sedang
+204,31,wanita,PNS,Reguler,Nominal Sedang
+205,33,wanita,Staff,Reguler,Nominal Sedang
+206,48,pria,Amil,Reguler,Nominal Tinggi
+207,30,pria,Kesehatan,Reguler,Nominal Sedang
+208,36,pria,PNS,Reguler,Nominal Sedang
+209,41,wanita,Lainnya,Reguler,Nominal Sedang
+210,46,pria,PNS,Kurban,Nominal Diatas Rata-rata
+211,33,pria,Amil,Reguler,Nominal Tinggi
+212,32,wanita,Wiraswasta,Reguler,Nominal Sedang
+213,34,pria,Industri,Reguler,Nominal Sedang
+214,34,pria,Lainnya,Reguler,Nominal Sedang
+215,31,wanita,Staff,Reguler,Nominal Sedang
+216,34,pria,Industri,Reguler,Nominal Sedang
+217,40,pria,Tidak Bekerja,Ramadhan,Nominal Diatas Rata-rata
+218,62,wanita,Amil,Reguler,Nominal Tinggi
+219,45,pria,Amil,Reguler,Nominal Tinggi
+220,36,pria,Amil,Ramadhan,Nominal Tinggi
+221,39,wanita,Akuntansi,Reguler,Nominal Tinggi
+222,31,wanita,PNS,Reguler,Nominal Sedang
+223,36,wanita,Marketing,Ramadhan,Nominal Rendah
+224,34,pria,Konsultan,Reguler,Nominal Sedang
+225,51,pria,Lainnya,Kurban,Nominal Rendah
+226,48,pria,Konsultan,Ramadhan,Nominal Rendah
+227,33,wanita,Staff,Ramadhan,Nominal Diatas Rata-rata
+228,41,pria,Staff,Reguler,Nominal Sedang
+229,59,pria,Pegawai Swasta,Reguler,Nominal Sedang
+230,30,wanita,PNS,Ramadhan,Nominal Diatas Rata-rata
+231,28,wanita,Industri,Reguler,Nominal Sedang
+232,31,wanita,Staff,Reguler,Nominal Sedang
+233,32,pria,PNS,Reguler,Nominal Sedang
+234,51,pria,Lainnya,Reguler,Nominal Sedang
+235,31,wanita,Staff,Ramadhan,Nominal Diatas Rata-rata
+236,33,pria,Konsultan,Ramadhan,Nominal Rendah
+237,46,pria,PNS,Ramadhan,Nominal Diatas Rata-rata
+238,40,pria,Tidak Bekerja,Reguler,Nominal Sedang
+239,36,pria,Amil,Reguler,Nominal Tinggi
+240,34,pria,Industri,Reguler,Nominal Sedang
+241,32,pria,Konsultan,Reguler,Nominal Sedang
+242,45,pria,Amil,Reguler,Nominal Tinggi
+243,32,pria,Kesehatan,Kurban,Nominal Rendah
+244,40,pria,Tidak Bekerja,Reguler,Nominal Sedang
+245,40,wanita,Tidak Bekerja,Reguler,Nominal Sedang
+246,35,pria,Amil,Reguler,Nominal Tinggi
+247,50,wanita,PNS,Ramadhan,Nominal Diatas Rata-rata
+248,35,pria,Industri,Reguler,Nominal Sedang
+249,41,pria,Amil,Kurban,Nominal Tinggi
+250,49,pria,Amil,Reguler,Nominal Tinggi
+251,31,wanita,IT,Ramadhan,Nominal Tinggi
+252,35,pria,Amil,Reguler,Nominal Tinggi
+253,37,pria,Lainnya,Ramadhan,Nominal Rendah
+254,36,pria,Pegawai Swasta,Reguler,Nominal Sedang
+255,46,pria,Lainnya,Ramadhan,Nominal Rendah
+256,41,pria,Amil,Ramadhan,Nominal Tinggi
+257,38,pria,Amil,Kurban,Nominal Tinggi
+258,40,wanita,Tidak Bekerja,Reguler,Nominal Sedang
+259,34,wanita,PNS,Kurban,Nominal Diatas Rata-rata
+260,28,pria,Konsultan,Reguler,Nominal Sedang
+261,32,pria,PNS,Reguler,Nominal Sedang
+262,59,pria,Marketing,Reguler,Nominal Sedang
+263,31,pria,Amil,Reguler,Nominal Tinggi
+264,35,pria,Amil,Kurban,Nominal Tinggi
+265,46,pria,Wiraswasta,Kurban,Nominal Diatas Rata-rata
+266,39,pria,PNS,Reguler,Nominal Sedang
+267,32,pria,Konsultan,Reguler,Nominal Sedang
+268,39,pria,Industri,Reguler,Nominal Sedang
+269,36,pria,Amil,Reguler,Nominal Tinggi
+270,31,wanita,Staff,Ramadhan,Nominal Diatas Rata-rata
+271,37,pria,Amil,Kurban,Nominal Tinggi
+272,62,wanita,Amil,Ramadhan,Nominal Tinggi
+273,33,pria,Lainnya,Reguler,Nominal Sedang
+274,66,pria,Wiraswasta,Ramadhan,Nominal Diatas Rata-rata
+275,47,pria,Amil,Kurban,Nominal Tinggi
+276,29,wanita,Lainnya,Reguler,Nominal Sedang
+277,30,pria,PNS,Kurban,Nominal Diatas Rata-rata
+278,46,pria,Amil,Ramadhan,Nominal Tinggi
+279,33,pria,Freelancer,Ramadhan,Nominal Tinggi
+280,40,pria,Tidak Bekerja,Reguler,Nominal Sedang
+281,28,wanita,Tidak Bekerja,Ramadhan,Nominal Diatas Rata-rata
+282,51,pria,Lainnya,Reguler,Nominal Sedang
+283,35,pria,Industri,Ramadhan,Nominal Rendah
+284,42,pria,Tidak Bekerja,Reguler,Nominal Sedang
+285,35,pria,Amil,Kurban,Nominal Tinggi
+286,51,pria,Teknisi,Reguler,Nominal Sedang
+287,36,pria,Amil,Kurban,Nominal Tinggi
+288,51,pria,Wiraswasta,Reguler,Nominal Sedang
+289,52,pria,Tidak Bekerja,Ramadhan,Nominal Diatas Rata-rata
+290,45,pria,Amil,Reguler,Nominal Tinggi
+291,80,pria,Amil,Ramadhan,Nominal Tinggi
+292,45,wanita,Amil,Ramadhan,Nominal Tinggi
+293,31,pria,Pegawai Swasta,Reguler,Nominal Sedang
+294,69,pria,Wiraswasta,Reguler,Nominal Sedang
+295,37,wanita,Auditor,Reguler,Nominal Tinggi
+296,32,wanita,Wiraswasta,Reguler,Nominal Sedang
+297,27,pria,Pegawai Swasta,Reguler,Nominal Sedang
+298,40,pria,Amil,Ramadhan,Nominal Tinggi
+299,30,wanita,PNS,Reguler,Nominal Sedang
+300,41,pria,Lainnya,Ramadhan,Nominal Rendah
+301,52,pria,Tidak Bekerja,Reguler,Nominal Sedang
+302,36,wanita,PNS,Reguler,Nominal Sedang
+303,38,pria,Amil,Kurban,Nominal Tinggi
+304,32,pria,Lainnya,Reguler,Nominal Sedang
+305,35,pria,Amil,Reguler,Nominal Tinggi
+306,41,wanita,IT,Reguler,Nominal Sedang
+307,35,pria,Teknisi,Reguler,Nominal Sedang
+308,43,pria,Tidak Bekerja,Reguler,Nominal Sedang
+309,31,wanita,Staff,Reguler,Nominal Sedang
+310,51,pria,Wiraswasta,Reguler,Nominal Sedang
+311,58,pria,Lainnya,Ramadhan,Nominal Rendah
+312,42,pria,Akuntansi,Reguler,Nominal Tinggi
+313,41,pria,Amil,Reguler,Nominal Tinggi
+314,42,pria,Tidak Bekerja,Reguler,Nominal Sedang
+315,46,pria,PNS,Kurban,Nominal Diatas Rata-rata
+316,35,pria,Lainnya,Reguler,Nominal Sedang
+317,37,pria,Amil,Reguler,Nominal Tinggi
+318,51,pria,Lainnya,Kurban,Nominal Rendah
+319,51,pria,Lainnya,Reguler,Nominal Sedang
+320,45,pria,Lainnya,Ramadhan,Nominal Rendah
+321,40,pria,Amil,Ramadhan,Nominal Tinggi
+322,32,pria,Amil,Ramadhan,Nominal Tinggi
+323,40,pria,Tidak Bekerja,Ramadhan,Nominal Diatas Rata-rata
+324,34,pria,Marketing,Reguler,Nominal Sedang
+325,47,pria,Amil,Reguler,Nominal Tinggi
+326,37,pria,Wiraswasta,Reguler,Nominal Sedang
+327,45,wanita,Pegawai Swasta,Reguler,Nominal Sedang
+328,42,pria,Amil,Kurban,Nominal Tinggi
+329,40,pria,Amil,Ramadhan,Nominal Tinggi
+330,40,pria,Tidak Bekerja,Reguler,Nominal Sedang
+331,32,wanita,PNS,Reguler,Nominal Sedang
+332,34,pria,IT,Ramadhan,Nominal Tinggi
+333,39,wanita,Amil,Reguler,Nominal Tinggi
+334,41,pria,Lainnya,Ramadhan,Nominal Rendah
+335,38,pria,Amil,Kurban,Nominal Tinggi
+336,35,pria,Pegawai Swasta,Reguler,Nominal Sedang
+337,42,pria,Tidak Bekerja,Reguler,Nominal Sedang
+338,27,wanita,Amil,Reguler,Nominal Tinggi
+339,31,wanita,PNS,Reguler,Nominal Sedang
+340,41,wanita,Wiraswasta,Kurban,Nominal Diatas Rata-rata
+341,50,pria,Amil,Reguler,Nominal Tinggi
+342,40,pria,Tidak Bekerja,Reguler,Nominal Sedang
+343,47,pria,Energi,Ramadhan,Nominal Tinggi
+344,36,wanita,Marketing,Reguler,Nominal Sedang
+345,32,pria,Konsultan,Kurban,Nominal Rendah
+346,40,wanita,PNS,Reguler,Nominal Sedang
+347,37,pria,Amil,Reguler,Nominal Tinggi
+348,47,pria,Amil,Reguler,Nominal Tinggi
+349,39,pria,Pegawai Swasta,Reguler,Nominal Sedang
+350,51,pria,Lainnya,Ramadhan,Nominal Rendah
+351,69,pria,Lainnya,Ramadhan,Nominal Rendah
+352,42,pria,Tidak Bekerja,Reguler,Nominal Sedang
+353,34,pria,Industri,Reguler,Nominal Sedang
+354,44,pria,PNS,Reguler,Nominal Sedang
+355,48,pria,Pegawai Swasta,Ramadhan,Nominal Diatas Rata-rata
+356,31,pria,Lainnya,Reguler,Nominal Sedang
+357,46,wanita,Akuntansi,Reguler,Nominal Tinggi
+358,46,pria,PNS,Reguler,Nominal Sedang
+359,44,pria,Amil,Reguler,Nominal Tinggi
+360,34,wanita,Staff,Reguler,Nominal Sedang
+361,37,wanita,Kesehatan,Reguler,Nominal Sedang
+362,32,pria,Akuntansi,Reguler,Nominal Tinggi
+363,32,pria,Konsultan,Ramadhan,Nominal Rendah
+364,54,wanita,PNS,Ramadhan,Nominal Diatas Rata-rata
+365,40,wanita,Tidak Bekerja,Kurban,Nominal Diatas Rata-rata
+366,47,pria,Industri,Reguler,Nominal Sedang
+367,38,wanita,Lainnya,Reguler,Nominal Sedang
+368,40,pria,Tidak Bekerja,Reguler,Nominal Sedang
+369,30,pria,Konsultan,Reguler,Nominal Sedang
+370,32,pria,Konsultan,Reguler,Nominal Sedang
+371,41,pria,Staff,Reguler,Nominal Sedang
+372,31,pria,Staff,Ramadhan,Nominal Diatas Rata-rata
+373,46,pria,Amil,Reguler,Nominal Tinggi
+374,40,pria,Staff,Reguler,Nominal Sedang
+375,22,pria,Amil,Reguler,Nominal Tinggi
+376,63,wanita,Pegawai Swasta,Reguler,Nominal Sedang
+377,33,wanita,Amil,Reguler,Nominal Tinggi
+378,39,wanita,Pegawai Swasta,Reguler,Nominal Sedang
+379,51,pria,Lainnya,Ramadhan,Nominal Rendah
+380,32,pria,Pegawai Swasta,Reguler,Nominal Sedang
+381,52,pria,Tidak Bekerja,Kurban,Nominal Diatas Rata-rata
+382,49,pria,Lainnya,Ramadhan,Nominal Rendah
+383,40,wanita,TNI/POLRI,Kurban,Nominal Diatas Rata-rata
+384,29,pria,Lainnya,Reguler,Nominal Sedang
+385,34,pria,Wiraswasta,Reguler,Nominal Sedang
+386,46,wanita,Pegawai Swasta,Ramadhan,Nominal Diatas Rata-rata
+387,34,pria,Lainnya,Reguler,Nominal Sedang
+388,23,pria,Pegawai Swasta,Reguler,Nominal Sedang
+389,39,pria,PNS,Reguler,Nominal Sedang
+390,48,pria,Amil,Reguler,Nominal Tinggi
+391,32,pria,Pegawai Swasta,Reguler,Nominal Sedang
+392,38,pria,Konsultan,Reguler,Nominal Sedang
+393,52,pria,Amil,Reguler,Nominal Tinggi
+394,38,wanita,Lainnya,Reguler,Nominal Sedang
+395,39,pria,Akuntansi,Reguler,Nominal Tinggi
+396,41,pria,Industri,Reguler,Nominal Sedang
+397,72,pria,PNS,Reguler,Nominal Sedang
+398,38,wanita,Lainnya,Reguler,Nominal Sedang
+399,28,pria,IT,Reguler,Nominal Sedang
+400,43,pria,Industri,Ramadhan,Nominal Rendah
+401,53,pria,PNS,Reguler,Nominal Sedang
+402,45,pria,Amil,Reguler,Nominal Tinggi
+403,42,pria,Tidak Bekerja,Reguler,Nominal Sedang
+404,41,pria,Amil,Reguler,Nominal Tinggi
+405,35,pria,Industri,Reguler,Nominal Sedang
+406,52,pria,Pegawai Swasta,Reguler,Nominal Sedang
+407,34,wanita,Amil,Reguler,Nominal Tinggi
+408,44,pria,PNS,Reguler,Nominal Sedang
+409,32,wanita,Industri,Ramadhan,Nominal Rendah
+410,39,pria,IT,Reguler,Nominal Sedang
+411,36,pria,PNS,Kurban,Nominal Diatas Rata-rata
+412,31,pria,Amil,Ramadhan,Nominal Tinggi
+413,31,pria,Amil,Reguler,Nominal Tinggi
+414,49,pria,Kesehatan,Ramadhan,Nominal Rendah
+415,59,wanita,PNS,Ramadhan,Nominal Diatas Rata-rata
+416,31,pria,PNS,Reguler,Nominal Sedang
+417,40,wanita,Konsultan,Reguler,Nominal Sedang
+418,48,pria,Konsultan,Reguler,Nominal Sedang
+419,49,wanita,Wiraswasta,Reguler,Nominal Sedang
+420,35,pria,Amil,Kurban,Nominal Tinggi
+421,40,wanita,Tidak Bekerja,Reguler,Nominal Sedang
+422,40,wanita,PNS,Reguler,Nominal Sedang
+423,44,pria,TNI/POLRI,Ramadhan,Nominal Diatas Rata-rata
+424,33,pria,IT,Reguler,Nominal Sedang
+425,41,pria,Lainnya,Reguler,Nominal Sedang
+426,33,pria,PNS,Kurban,Nominal Diatas Rata-rata
+427,32,pria,Akuntansi,Reguler,Nominal Tinggi
+428,35,pria,Lainnya,Kurban,Nominal Rendah
+429,37,wanita,Auditor,Reguler,Nominal Tinggi
+430,41,pria,Amil,Reguler,Nominal Tinggi
+431,50,wanita,Pegawai Swasta,Kurban,Nominal Diatas Rata-rata
+432,69,pria,Lainnya,Ramadhan,Nominal Rendah
+433,46,pria,Wiraswasta,Reguler,Nominal Sedang
+434,39,pria,Staff,Reguler,Nominal Sedang
+435,40,pria,Tidak Bekerja,Reguler,Nominal Sedang
+436,35,pria,Amil,Ramadhan,Nominal Tinggi
+437,40,wanita,Tidak Bekerja,Reguler,Nominal Sedang
+438,62,wanita,Amil,Ramadhan,Nominal Tinggi
+439,30,pria,Amil,Reguler,Nominal Tinggi
+440,51,pria,Wiraswasta,Reguler,Nominal Sedang
+441,40,pria,Amil,Ramadhan,Nominal Tinggi
+442,22,pria,Amil,Reguler,Nominal Tinggi
+443,40,pria,PNS,Reguler,Nominal Sedang
+444,53,pria,IT,Reguler,Nominal Sedang
+445,34,pria,Staff,Reguler,Nominal Sedang
+446,33,pria,Lainnya,Kurban,Nominal Rendah
+447,40,pria,Tidak Bekerja,Reguler,Nominal Sedang
+448,30,pria,Amil,Reguler,Nominal Tinggi
+449,44,pria,Kesehatan,Reguler,Nominal Sedang
+450,69,pria,Lainnya,Ramadhan,Nominal Rendah
+451,51,pria,Lainnya,Kurban,Nominal Rendah
+452,37,wanita,Kesehatan,Reguler,Nominal Sedang
+453,31,pria,PNS,Reguler,Nominal Sedang
+454,34,pria,Staff,Reguler,Nominal Sedang
+455,28,pria,Industri,Reguler,Nominal Sedang
+456,28,wanita,Industri,Reguler,Nominal Sedang
+457,45,pria,Amil,Reguler,Nominal Tinggi
+458,37,wanita,Amil,Kurban,Nominal Tinggi
+459,52,pria,Lainnya,Reguler,Nominal Sedang
+460,34,pria,Amil,Reguler,Nominal Tinggi
+461,32,wanita,PNS,Kurban,Nominal Diatas Rata-rata
+462,38,pria,Amil,Reguler,Nominal Tinggi
+463,30,pria,Kesehatan,Reguler,Nominal Sedang
+464,37,wanita,Amil,Reguler,Nominal Tinggi
+465,33,pria,Lainnya,Reguler,Nominal Sedang
+466,39,pria,Industri,Reguler,Nominal Sedang
+467,38,pria,PNS,Reguler,Nominal Sedang
+468,27,wanita,Amil,Reguler,Nominal Tinggi
+469,52,pria,Lainnya,Ramadhan,Nominal Rendah
+470,35,pria,Freelancer,Kurban,Nominal Tinggi
+471,38,pria,Amil,Ramadhan,Nominal Tinggi
+472,31,pria,PNS,Ramadhan,Nominal Diatas Rata-rata
+473,52,pria,Tidak Bekerja,Reguler,Nominal Sedang
+474,39,pria,Akuntansi,Reguler,Nominal Tinggi
+475,34,pria,Wiraswasta,Reguler,Nominal Sedang
+476,38,pria,PNS,Reguler,Nominal Sedang
+477,32,pria,Lainnya,Reguler,Nominal Sedang
+478,51,pria,Wiraswasta,Reguler,Nominal Sedang
+479,42,pria,Wiraswasta,Reguler,Nominal Sedang
+480,32,pria,Pegawai Swasta,Kurban,Nominal Diatas Rata-rata
+481,46,pria,Konsultan,Ramadhan,Nominal Rendah
+482,40,pria,Tidak Bekerja,Reguler,Nominal Sedang
+483,38,pria,Lainnya,Ramadhan,Nominal Rendah
+484,46,wanita,Akuntansi,Kurban,Nominal Tinggi
+485,40,wanita,Tidak Bekerja,Reguler,Nominal Sedang
+486,42,pria,Tidak Bekerja,Reguler,Nominal Sedang
+487,30,wanita,PNS,Reguler,Nominal Sedang
+488,41,pria,Industri,Ramadhan,Nominal Rendah
+489,32,pria,Konsultan,Reguler,Nominal Sedang
+490,50,pria,TNI/POLRI,Ramadhan,Nominal Diatas Rata-rata
+491,42,pria,Tidak Bekerja,Kurban,Nominal Diatas Rata-rata
+492,39,wanita,Amil,Kurban,Nominal Tinggi
+493,39,pria,Staff,Ramadhan,Nominal Diatas Rata-rata
+494,41,pria,Amil,Reguler,Nominal Tinggi
+495,31,wanita,Staff,Reguler,Nominal Sedang
+496,44,pria,Kesehatan,Reguler,Nominal Sedang
+497,69,pria,Wiraswasta,Reguler,Nominal Sedang
+498,39,pria,Amil,Kurban,Nominal Tinggi
+499,52,pria,Lainnya,Reguler,Nominal Sedang
+500,41,wanita,Amil,Reguler,Nominal Tinggi
+501,36,wanita,PNS,Reguler,Nominal Sedang
+502,31,pria,Amil,Reguler,Nominal Tinggi
+503,34,pria,Industri,Kurban,Nominal Rendah
+504,38,wanita,Lainnya,Reguler,Nominal Sedang
+505,39,wanita,Akuntansi,Reguler,Nominal Tinggi
+506,51,pria,Lainnya,Reguler,Nominal Sedang
+507,39,pria,Pegawai Swasta,Reguler,Nominal Sedang
+508,33,pria,Wiraswasta,Reguler,Nominal Sedang
+509,36,pria,Lainnya,Ramadhan,Nominal Rendah
+510,46,pria,Konsultan,Reguler,Nominal Sedang
+511,48,pria,Amil,Reguler,Nominal Tinggi
+512,49,pria,Lainnya,Reguler,Nominal Sedang
+513,52,wanita,Tidak Bekerja,Ramadhan,Nominal Diatas Rata-rata
+514,47,pria,Amil,Kurban,Nominal Tinggi
+515,37,wanita,Kesehatan,Reguler,Nominal Sedang
+516,50,wanita,PNS,Kurban,Nominal Diatas Rata-rata
+517,40,pria,Amil,Reguler,Nominal Tinggi
+518,38,wanita,Lainnya,Reguler,Nominal Sedang
+519,40,wanita,Konsultan,Reguler,Nominal Sedang
+520,40,pria,Tidak Bekerja,Reguler,Nominal Sedang
+521,38,wanita,Lainnya,Reguler,Nominal Sedang
+522,50,pria,Lainnya,Kurban,Nominal Rendah
+523,32,pria,Kesehatan,Reguler,Nominal Sedang
+524,31,pria,Amil,Reguler,Nominal Tinggi
+525,41,wanita,Wiraswasta,Ramadhan,Nominal Diatas Rata-rata
+526,32,pria,Lainnya,Reguler,Nominal Sedang
+527,46,pria,Akuntansi,Ramadhan,Nominal Tinggi
+528,27,pria,Pegawai Swasta,Reguler,Nominal Sedang
+529,38,pria,Amil,Reguler,Nominal Tinggi
+530,40,wanita,Tidak Bekerja,Ramadhan,Nominal Diatas Rata-rata
+531,40,pria,PNS,Reguler,Nominal Sedang
+532,38,wanita,Lainnya,Reguler,Nominal Sedang
+533,52,pria,Amil,Reguler,Nominal Tinggi
+534,47,pria,IT,Reguler,Nominal Sedang
+535,29,wanita,Lainnya,Ramadhan,Nominal Rendah
+536,40,pria,Tidak Bekerja,Reguler,Nominal Sedang
+537,36,pria,Amil,Ramadhan,Nominal Tinggi
+538,41,pria,Amil,Reguler,Nominal Tinggi
+539,31,wanita,Staff,Reguler,Nominal Sedang
+540,40,pria,Staff,Reguler,Nominal Sedang
+541,35,pria,Amil,Reguler,Nominal Tinggi
+542,31,wanita,PNS,Reguler,Nominal Sedang
+543,30,wanita,PNS,Ramadhan,Nominal Diatas Rata-rata
+544,40,pria,PNS,Reguler,Nominal Sedang
+545,50,pria,PNS,Kurban,Nominal Diatas Rata-rata
+546,43,pria,Pegawai Swasta,Reguler,Nominal Sedang
+547,51,wanita,Amil,Ramadhan,Nominal Tinggi
+548,47,pria,Amil,Kurban,Nominal Tinggi
+549,34,pria,Industri,Kurban,Nominal Rendah
+550,40,wanita,Tidak Bekerja,Reguler,Nominal Sedang
+551,33,wanita,Amil,Kurban,Nominal Tinggi
+552,33,pria,Konsultan,Kurban,Nominal Rendah
+553,63,pria,Amil,Ramadhan,Nominal Tinggi
+554,51,pria,Teknisi,Reguler,Nominal Sedang
+555,48,pria,Amil,Reguler,Nominal Tinggi
+556,36,pria,Wiraswasta,Ramadhan,Nominal Diatas Rata-rata
+557,39,pria,Amil,Reguler,Nominal Tinggi
+558,42,pria,PNS,Kurban,Nominal Diatas Rata-rata
+559,32,pria,Lainnya,Reguler,Nominal Sedang
+560,31,pria,Pegawai Swasta,Reguler,Nominal Sedang
+561,48,pria,Amil,Ramadhan,Nominal Tinggi
+562,31,pria,PNS,Reguler,Nominal Sedang
+563,42,pria,Tidak Bekerja,Kurban,Nominal Diatas Rata-rata
+564,39,pria,PNS,Reguler,Nominal Sedang
+565,32,pria,Konsultan,Reguler,Nominal Sedang
+566,48,pria,Amil,Ramadhan,Nominal Tinggi
+567,39,pria,PNS,Reguler,Nominal Sedang
+568,51,pria,Amil,Reguler,Nominal Tinggi
+569,30,pria,PNS,Reguler,Nominal Sedang
+570,38,wanita,Lainnya,Reguler,Nominal Sedang
+571,28,pria,IT,Reguler,Nominal Sedang
+572,29,wanita,Lainnya,Ramadhan,Nominal Rendah
+573,31,wanita,Amil,Reguler,Nominal Tinggi
+574,34,pria,Industri,Reguler,Nominal Sedang
+575,69,pria,Amil,Kurban,Nominal Tinggi
+576,42,pria,Amil,Ramadhan,Nominal Tinggi
+577,44,wanita,IT,Reguler,Nominal Sedang
+578,29,wanita,Lainnya,Reguler,Nominal Sedang
+579,35,pria,Energi,Reguler,Nominal Sedang
+580,52,pria,PNS,Reguler,Nominal Sedang
+581,54,pria,PNS,Kurban,Nominal Diatas Rata-rata
+582,41,wanita,Lainnya,Kurban,Nominal Rendah
+583,49,pria,PNS,Reguler,Nominal Sedang
+584,37,wanita,Amil,Reguler,Nominal Tinggi
+585,40,pria,PNS,Reguler,Nominal Sedang
+586,41,wanita,Lainnya,Reguler,Nominal Sedang
+587,44,wanita,Pegawai Swasta,Reguler,Nominal Sedang
+588,35,pria,Pegawai Swasta,Reguler,Nominal Sedang
+589,30,pria,Kesehatan,Reguler,Nominal Sedang
+590,45,wanita,Pegawai Swasta,Reguler,Nominal Sedang
+591,39,pria,Akuntansi,Reguler,Nominal Tinggi
+592,38,pria,Amil,Reguler,Nominal Tinggi
+593,52,pria,Tidak Bekerja,Reguler,Nominal Sedang
+594,22,pria,Amil,Ramadhan,Nominal Tinggi
+595,34,pria,Staff,Ramadhan,Nominal Diatas Rata-rata
+596,41,wanita,Lainnya,Reguler,Nominal Sedang
+597,36,pria,Amil,Reguler,Nominal Tinggi
+598,35,pria,Amil,Reguler,Nominal Tinggi
+599,40,pria,Amil,Reguler,Nominal Tinggi
+600,55,wanita,Wiraswasta,Ramadhan,Nominal Diatas Rata-rata
+601,41,pria,Wiraswasta,Reguler,Nominal Sedang
+602,36,pria,Amil,Kurban,Nominal Tinggi
+603,47,pria,Amil,Kurban,Nominal Tinggi
+604,49,pria,Wiraswasta,Reguler,Nominal Sedang
+605,39,pria,PNS,Reguler,Nominal Sedang
+606,22,pria,Amil,Reguler,Nominal Tinggi
+607,74,wanita,Tidak Bekerja,Ramadhan,Nominal Diatas Rata-rata
+608,54,pria,Amil,Reguler,Nominal Tinggi
+609,31,wanita,Konsultan,Reguler,Nominal Sedang
+610,39,pria,IT,Reguler,Nominal Sedang
+611,27,pria,Pegawai Swasta,Reguler,Nominal Sedang
+612,32,pria,Konsultan,Reguler,Nominal Sedang
+613,31,pria,Konsultan,Kurban,Nominal Rendah
+614,34,pria,Wiraswasta,Kurban,Nominal Diatas Rata-rata
+615,40,wanita,Konsultan,Reguler,Nominal Sedang
+616,40,wanita,Tidak Bekerja,Reguler,Nominal Sedang
+617,32,pria,IT,Reguler,Nominal Sedang
+618,37,wanita,Kesehatan,Reguler,Nominal Sedang
+619,46,pria,PNS,Reguler,Nominal Sedang
+620,28,wanita,Lainnya,Reguler,Nominal Sedang
+621,38,pria,PNS,Reguler,Nominal Sedang
+622,32,wanita,Wiraswasta,Reguler,Nominal Sedang
+623,31,wanita,Staff,Ramadhan,Nominal Diatas Rata-rata
+624,30,pria,Amil,Kurban,Nominal Tinggi
+625,37,wanita,PNS,Reguler,Nominal Sedang
+626,31,wanita,Staff,Reguler,Nominal Sedang
+627,34,pria,Wiraswasta,Reguler,Nominal Sedang
+628,34,pria,Industri,Reguler,Nominal Sedang
+629,39,pria,Industri,Reguler,Nominal Sedang
+630,45,pria,Amil,Reguler,Nominal Tinggi
+631,36,pria,Amil,Reguler,Nominal Tinggi
+632,33,pria,Amil,Reguler,Nominal Tinggi
+633,33,wanita,PNS,Reguler,Nominal Sedang
+634,48,pria,Amil,Reguler,Nominal Tinggi
+635,30,pria,PNS,Reguler,Nominal Sedang
+636,40,pria,Teknisi,Reguler,Nominal Sedang
+637,31,pria,Energi,Ramadhan,Nominal Tinggi
+638,38,pria,Wiraswasta,Ramadhan,Nominal Diatas Rata-rata
+639,33,wanita,Amil,Reguler,Nominal Tinggi
+640,38,pria,PNS,Kurban,Nominal Diatas Rata-rata
+641,53,pria,Wiraswasta,Ramadhan,Nominal Diatas Rata-rata
+642,27,pria,Pegawai Swasta,Reguler,Nominal Sedang
+643,34,pria,Amil,Reguler,Nominal Tinggi
+644,49,pria,Wiraswasta,Ramadhan,Nominal Diatas Rata-rata
+645,32,pria,Kesehatan,Reguler,Nominal Sedang
+646,34,pria,Wiraswasta,Reguler,Nominal Sedang
+647,45,pria,Amil,Ramadhan,Nominal Tinggi
+648,47,pria,Amil,Kurban,Nominal Tinggi
+649,35,pria,Industri,Reguler,Nominal Sedang
+650,35,pria,Industri,Reguler,Nominal Sedang
+651,40,pria,Tidak Bekerja,Reguler,Nominal Sedang
+652,45,pria,Wiraswasta,Ramadhan,Nominal Diatas Rata-rata
+653,30,wanita,PNS,Reguler,Nominal Sedang
+654,30,wanita,Konsultan,Reguler,Nominal Sedang
+655,57,pria,Lainnya,Reguler,Nominal Sedang
+656,32,pria,PNS,Kurban,Nominal Diatas Rata-rata
+657,45,pria,Amil,Kurban,Nominal Tinggi
+658,28,wanita,Industri,Kurban,Nominal Rendah
+659,40,wanita,Tidak Bekerja,Ramadhan,Nominal Diatas Rata-rata
+660,39,pria,Lainnya,Reguler,Nominal Sedang
+661,37,wanita,Kesehatan,Reguler,Nominal Sedang
+662,33,pria,IT,Ramadhan,Nominal Tinggi
+663,30,wanita,PNS,Reguler,Nominal Sedang
+664,38,pria,Wiraswasta,Ramadhan,Nominal Diatas Rata-rata
+665,45,pria,Amil,Ramadhan,Nominal Tinggi
+666,39,wanita,Industri,Reguler,Nominal Sedang
+667,69,pria,Lainnya,Ramadhan,Nominal Rendah
+668,34,pria,TNI/POLRI,Reguler,Nominal Sedang
+669,34,pria,Marketing,Reguler,Nominal Sedang
+670,34,pria,Amil,Reguler,Nominal Tinggi
+671,35,pria,Amil,Kurban,Nominal Tinggi
+672,36,pria,Lainnya,Reguler,Nominal Sedang
+673,32,pria,Amil,Reguler,Nominal Tinggi
+674,28,pria,Amil,Kurban,Nominal Tinggi
+675,36,pria,Amil,Reguler,Nominal Tinggi
+676,36,pria,Tidak Bekerja,Reguler,Nominal Sedang
+677,49,pria,PNS,Reguler,Nominal Sedang
+678,47,pria,Pegawai Swasta,Reguler,Nominal Sedang
+679,54,pria,Amil,Reguler,Nominal Tinggi
+680,39,wanita,Pegawai Swasta,Ramadhan,Nominal Diatas Rata-rata
+681,42,pria,Akuntansi,Reguler,Nominal Tinggi
+682,39,pria,Akuntansi,Reguler,Nominal Tinggi
+683,41,pria,Lainnya,Reguler,Nominal Sedang
+684,39,wanita,Pegawai Swasta,Reguler,Nominal Sedang
+685,55,pria,Tidak Bekerja,Ramadhan,Nominal Diatas Rata-rata
+686,57,pria,Tidak Bekerja,Reguler,Nominal Sedang
+687,38,wanita,Lainnya,Reguler,Nominal Sedang
+688,35,pria,Industri,Ramadhan,Nominal Rendah
+689,42,pria,PNS,Reguler,Nominal Sedang
+690,46,pria,PNS,Ramadhan,Nominal Diatas Rata-rata
+691,56,pria,Amil,Ramadhan,Nominal Tinggi
+692,38,pria,Tidak Bekerja,Kurban,Nominal Diatas Rata-rata
+693,38,pria,Wiraswasta,Ramadhan,Nominal Diatas Rata-rata
+694,51,pria,Lainnya,Reguler,Nominal Sedang
+695,34,pria,Wiraswasta,Reguler,Nominal Sedang
+696,43,pria,Tidak Bekerja,Ramadhan,Nominal Diatas Rata-rata
+697,36,pria,PNS,Reguler,Nominal Sedang
+698,40,wanita,Konsultan,Kurban,Nominal Rendah
+699,31,pria,Pegawai Swasta,Ramadhan,Nominal Diatas Rata-rata
+700,76,pria,Lainnya,Kurban,Nominal Rendah
+701,38,pria,PNS,Reguler,Nominal Sedang
+702,40,pria,Tidak Bekerja,Reguler,Nominal Sedang
+703,41,pria,Amil,Reguler,Nominal Tinggi
+704,34,pria,Wiraswasta,Kurban,Nominal Diatas Rata-rata
+705,56,pria,PNS,Reguler,Nominal Sedang
+706,35,pria,Amil,Ramadhan,Nominal Tinggi
+707,32,pria,Amil,Kurban,Nominal Tinggi
+708,47,pria,Energi,Reguler,Nominal Sedang
+709,36,pria,Amil,Reguler,Nominal Tinggi
+710,35,pria,Lainnya,Reguler,Nominal Sedang
+711,42,pria,Tidak Bekerja,Reguler,Nominal Sedang
+712,54,pria,Amil,Reguler,Nominal Tinggi
+713,36,pria,Pegawai Swasta,Reguler,Nominal Sedang
+714,37,pria,PNS,Reguler,Nominal Sedang
+715,46,pria,PNS,Kurban,Nominal Diatas Rata-rata
+716,42,pria,Tidak Bekerja,Reguler,Nominal Sedang
+717,47,pria,Energi,Reguler,Nominal Sedang
+718,38,pria,Wiraswasta,Ramadhan,Nominal Diatas Rata-rata
+719,34,pria,Lainnya,Reguler,Nominal Sedang
+720,39,wanita,Amil,Kurban,Nominal Tinggi
+721,31,pria,Amil,Kurban,Nominal Tinggi
+722,31,wanita,Amil,Reguler,Nominal Tinggi
+723,57,pria,Lainnya,Reguler,Nominal Sedang
+724,42,pria,Tidak Bekerja,Ramadhan,Nominal Diatas Rata-rata
+725,37,pria,PNS,Kurban,Nominal Diatas Rata-rata
+726,31,wanita,Staff,Ramadhan,Nominal Diatas Rata-rata
+727,69,pria,Amil,Kurban,Nominal Tinggi
+728,39,pria,Amil,Kurban,Nominal Tinggi
+729,35,pria,Energi,Ramadhan,Nominal Tinggi
+730,38,wanita,Lainnya,Reguler,Nominal Sedang
+731,53,pria,Tidak Bekerja,Reguler,Nominal Sedang
+732,49,wanita,Wiraswasta,Reguler,Nominal Sedang
+733,44,wanita,IT,Ramadhan,Nominal Tinggi
+734,60,wanita,PNS,Reguler,Nominal Sedang
+735,48,pria,Amil,Reguler,Nominal Tinggi
+736,36,wanita,Wiraswasta,Reguler,Nominal Sedang
+737,62,wanita,Amil,Reguler,Nominal Tinggi
+738,31,wanita,Amil,Reguler,Nominal Tinggi
+739,27,pria,Pegawai Swasta,Kurban,Nominal Diatas Rata-rata
+740,41,pria,Amil,Reguler,Nominal Tinggi
+741,36,pria,Amil,Reguler,Nominal Tinggi
+742,31,wanita,Staff,Reguler,Nominal Sedang
+743,48,pria,Amil,Ramadhan,Nominal Tinggi
+744,32,pria,PNS,Reguler,Nominal Sedang
+745,33,pria,PNS,Kurban,Nominal Diatas Rata-rata
+746,32,pria,Amil,Reguler,Nominal Tinggi
+747,41,pria,Industri,Reguler,Nominal Sedang
+748,42,pria,Akuntansi,Reguler,Nominal Tinggi
+749,34,pria,Industri,Ramadhan,Nominal Rendah
+750,52,pria,Pegawai Swasta,Reguler,Nominal Sedang
+751,59,wanita,Tidak Bekerja,Ramadhan,Nominal Diatas Rata-rata
+752,31,pria,Pegawai Swasta,Reguler,Nominal Sedang
+753,34,pria,Konsultan,Reguler,Nominal Sedang
+754,31,wanita,Konsultan,Reguler,Nominal Sedang
+755,44,wanita,Marketing,Reguler,Nominal Sedang
+756,49,wanita,Wiraswasta,Kurban,Nominal Diatas Rata-rata
+757,34,pria,Staff,Reguler,Nominal Sedang
+758,40,pria,Tidak Bekerja,Reguler,Nominal Sedang
+759,32,pria,Lainnya,Ramadhan,Nominal Rendah
+760,32,wanita,Wiraswasta,Ramadhan,Nominal Diatas Rata-rata
+761,40,pria,PNS,Kurban,Nominal Diatas Rata-rata
+762,31,wanita,Amil,Ramadhan,Nominal Tinggi
+763,25,pria,Staff,Reguler,Nominal Sedang
+764,38,wanita,Lainnya,Reguler,Nominal Sedang
+765,39,pria,Industri,Kurban,Nominal Rendah
+766,42,pria,Wiraswasta,Reguler,Nominal Sedang
+767,33,wanita,Amil,Reguler,Nominal Tinggi
+768,74,wanita,Tidak Bekerja,Ramadhan,Nominal Diatas Rata-rata
+769,31,wanita,IT,Reguler,Nominal Sedang
+770,30,pria,Konsultan,Reguler,Nominal Sedang
+771,39,pria,Amil,Reguler,Nominal Tinggi
+772,40,wanita,Tidak Bekerja,Kurban,Nominal Diatas Rata-rata
+773,39,wanita,Pegawai Swasta,Reguler,Nominal Sedang
+774,31,wanita,Staff,Reguler,Nominal Sedang
+775,31,wanita,Pegawai Swasta,Ramadhan,Nominal Diatas Rata-rata
+776,29,wanita,Akuntansi,Reguler,Nominal Tinggi
+777,37,wanita,Pegawai Swasta,Ramadhan,Nominal Diatas Rata-rata
+778,40,pria,Tidak Bekerja,Reguler,Nominal Sedang
+779,36,pria,Wiraswasta,Ramadhan,Nominal Diatas Rata-rata
+780,40,pria,Tidak Bekerja,Ramadhan,Nominal Diatas Rata-rata
+781,38,pria,PNS,Reguler,Nominal Sedang
+782,35,pria,Industri,Reguler,Nominal Sedang
+783,36,pria,PNS,Ramadhan,Nominal Diatas Rata-rata
+784,42,pria,Wiraswasta,Ramadhan,Nominal Diatas Rata-rata
+785,45,pria,Amil,Reguler,Nominal Tinggi
+786,42,pria,Tidak Bekerja,Ramadhan,Nominal Diatas Rata-rata
+787,49,wanita,Wiraswasta,Reguler,Nominal Sedang
+788,41,pria,Industri,Kurban,Nominal Rendah
+789,39,wanita,Pegawai Swasta,Ramadhan,Nominal Diatas Rata-rata
+790,59,pria,Pegawai Swasta,Reguler,Nominal Sedang
+791,40,pria,PNS,Reguler,Nominal Sedang
+792,31,wanita,IT,Reguler,Nominal Sedang
+793,37,pria,Amil,Reguler,Nominal Tinggi
+794,54,pria,Amil,Ramadhan,Nominal Tinggi
+795,65,pria,Wiraswasta,Reguler,Nominal Sedang
+796,45,pria,Amil,Reguler,Nominal Tinggi
+797,52,pria,Pegawai Swasta,Reguler,Nominal Sedang
+798,37,pria,Teknisi,Reguler,Nominal Sedang
+799,37,wanita,Amil,Ramadhan,Nominal Tinggi
+800,39,wanita,Amil,Ramadhan,Nominal Tinggi
+801,32,pria,Pegawai Swasta,Reguler,Nominal Sedang
+802,32,wanita,Auditor,Ramadhan,Nominal Tinggi
+803,26,pria,PNS,Ramadhan,Nominal Diatas Rata-rata
+804,62,wanita,Amil,Kurban,Nominal Tinggi
+805,52,pria,Tidak Bekerja,Reguler,Nominal Sedang
+806,31,pria,Amil,Reguler,Nominal Tinggi
+807,29,wanita,Lainnya,Ramadhan,Nominal Rendah
+808,42,pria,Tidak Bekerja,Kurban,Nominal Diatas Rata-rata
+809,42,pria,Tidak Bekerja,Ramadhan,Nominal Diatas Rata-rata
+810,38,pria,Wiraswasta,Reguler,Nominal Sedang
+811,38,pria,IT,Reguler,Nominal Sedang
+812,32,pria,Akuntansi,Reguler,Nominal Tinggi
+813,32,pria,Lainnya,Reguler,Nominal Sedang
+814,37,wanita,Kesehatan,Reguler,Nominal Sedang
+815,31,pria,Konsultan,Reguler,Nominal Sedang
+816,38,pria,Tidak Bekerja,Ramadhan,Nominal Diatas Rata-rata
+817,34,pria,Industri,Ramadhan,Nominal Rendah
+818,32,wanita,PNS,Ramadhan,Nominal Diatas Rata-rata
+819,40,wanita,Tidak Bekerja,Reguler,Nominal Sedang
+820,39,pria,Industri,Reguler,Nominal Sedang
+821,42,wanita,PNS,Ramadhan,Nominal Diatas Rata-rata
+822,51,pria,Pegawai Swasta,Reguler,Nominal Sedang
+823,38,pria,Amil,Ramadhan,Nominal Tinggi
+824,35,pria,Amil,Ramadhan,Nominal Tinggi
+825,47,pria,Amil,Reguler,Nominal Tinggi
+826,60,pria,Tidak Bekerja,Ramadhan,Nominal Diatas Rata-rata
+827,60,wanita,PNS,Reguler,Nominal Sedang
+828,42,pria,Tidak Bekerja,Ramadhan,Nominal Diatas Rata-rata
+829,40,pria,Staff,Reguler,Nominal Sedang
+830,38,wanita,Lainnya,Ramadhan,Nominal Rendah
+831,46,pria,PNS,Ramadhan,Nominal Diatas Rata-rata
+832,31,pria,Amil,Ramadhan,Nominal Tinggi
+833,38,pria,Amil,Ramadhan,Nominal Tinggi
+834,57,pria,Tidak Bekerja,Kurban,Nominal Diatas Rata-rata
+835,51,pria,Lainnya,Reguler,Nominal Sedang
+836,41,pria,PNS,Reguler,Nominal Sedang
+837,40,pria,Tidak Bekerja,Kurban,Nominal Diatas Rata-rata
+838,51,pria,Amil,Kurban,Nominal Tinggi
+839,69,pria,Lainnya,Ramadhan,Nominal Rendah
+840,28,pria,Konsultan,Reguler,Nominal Sedang
+841,30,wanita,PNS,Ramadhan,Nominal Diatas Rata-rata
+842,45,pria,Amil,Kurban,Nominal Tinggi
+843,36,pria,Tidak Bekerja,Reguler,Nominal Sedang
+844,27,wanita,Lainnya,Reguler,Nominal Sedang
+845,80,pria,Amil,Reguler,Nominal Tinggi
+846,39,pria,Amil,Reguler,Nominal Tinggi
+847,35,pria,Industri,Reguler,Nominal Sedang
+848,42,pria,PNS,Ramadhan,Nominal Diatas Rata-rata
+849,34,pria,Marketing,Reguler,Nominal Sedang
+850,31,wanita,Staff,Reguler,Nominal Sedang
+851,47,pria,Amil,Reguler,Nominal Tinggi
+852,56,pria,Industri,Ramadhan,Nominal Rendah
+853,31,pria,Industri,Reguler,Nominal Sedang
+854,31,wanita,Amil,Ramadhan,Nominal Tinggi
+855,47,pria,Industri,Reguler,Nominal Sedang
+856,52,pria,Tidak Bekerja,Ramadhan,Nominal Diatas Rata-rata
+857,51,pria,Lainnya,Reguler,Nominal Sedang
+858,31,pria,Amil,Ramadhan,Nominal Tinggi
+859,41,pria,Staff,Reguler,Nominal Sedang
+860,35,pria,Energi,Ramadhan,Nominal Tinggi
+861,40,pria,PNS,Reguler,Nominal Sedang
+862,30,pria,PNS,Reguler,Nominal Sedang
+863,56,wanita,Tidak Bekerja,Reguler,Nominal Sedang
+864,27,wanita,Lainnya,Reguler,Nominal Sedang
+865,31,pria,PNS,Reguler,Nominal Sedang
+866,53,pria,PNS,Reguler,Nominal Sedang
+867,32,pria,IT,Reguler,Nominal Sedang
+868,46,pria,Akuntansi,Ramadhan,Nominal Tinggi
+869,40,pria,PNS,Reguler,Nominal Sedang
+870,46,pria,Transportasi,Kurban,Nominal Diatas Rata-rata
+871,31,pria,Lainnya,Ramadhan,Nominal Rendah
+872,45,wanita,Wiraswasta,Reguler,Nominal Sedang
+873,34,pria,Konsultan,Reguler,Nominal Sedang
+874,49,pria,Amil,Ramadhan,Nominal Tinggi
+875,34,pria,Staff,Reguler,Nominal Sedang
+876,40,pria,Tidak Bekerja,Kurban,Nominal Diatas Rata-rata
+877,32,wanita,Amil,Reguler,Nominal Tinggi
+878,39,wanita,Amil,Ramadhan,Nominal Tinggi
+879,35,pria,Pegawai Swasta,Kurban,Nominal Diatas Rata-rata
+880,34,pria,PNS,Reguler,Nominal Sedang
+881,44,pria,Industri,Reguler,Nominal Sedang
+882,36,wanita,Freelancer,Reguler,Nominal Sedang
+883,40,pria,PNS,Reguler,Nominal Sedang
+884,34,pria,Wiraswasta,Kurban,Nominal Diatas Rata-rata
+885,42,pria,Tidak Bekerja,Kurban,Nominal Diatas Rata-rata
+886,40,pria,Industri,Ramadhan,Nominal Rendah
+887,35,pria,Amil,Reguler,Nominal Tinggi
+888,30,wanita,Lainnya,Reguler,Nominal Sedang
+889,45,pria,Amil,Reguler,Nominal Tinggi
+890,42,pria,Akuntansi,Ramadhan,Nominal Tinggi
+891,38,pria,Amil,Reguler,Nominal Tinggi
+892,28,wanita,Industri,Reguler,Nominal Sedang
+893,41,pria,Industri,Reguler,Nominal Sedang
+894,50,wanita,PNS,Reguler,Nominal Sedang
+895,44,pria,PNS,Ramadhan,Nominal Diatas Rata-rata
+896,53,pria,IT,Reguler,Nominal Sedang
+897,50,pria,Wiraswasta,Reguler,Nominal Sedang
+898,36,pria,PNS,Kurban,Nominal Diatas Rata-rata
+899,30,pria,Kesehatan,Reguler,Nominal Sedang
+900,57,pria,Tidak Bekerja,Reguler,Nominal Sedang
+901,40,wanita,Tidak Bekerja,Reguler,Nominal Sedang
+902,52,pria,Pegawai Swasta,Reguler,Nominal Sedang
+903,57,pria,Tidak Bekerja,Reguler,Nominal Sedang
+904,31,wanita,Amil,Reguler,Nominal Tinggi
+905,39,pria,Wiraswasta,Reguler,Nominal Sedang
+906,29,pria,Amil,Reguler,Nominal Tinggi
+907,51,pria,Lainnya,Reguler,Nominal Sedang
+908,36,pria,Amil,Reguler,Nominal Tinggi
+909,32,pria,Lainnya,Reguler,Nominal Sedang
+910,50,pria,Amil,Kurban,Nominal Tinggi
+911,49,pria,Lainnya,Ramadhan,Nominal Rendah
+912,39,pria,IT,Reguler,Nominal Sedang
+913,30,wanita,PNS,Reguler,Nominal Sedang
+914,35,pria,Konsultan,Reguler,Nominal Sedang
+915,59,pria,Marketing,Ramadhan,Nominal Rendah
+916,35,wanita,Pegawai Swasta,Reguler,Nominal Sedang
+917,51,pria,Lainnya,Reguler,Nominal Sedang
+918,39,pria,Wiraswasta,Reguler,Nominal Sedang
+919,40,pria,Tidak Bekerja,Reguler,Nominal Sedang
+920,34,pria,Pegawai Swasta,Reguler,Nominal Sedang
+921,31,pria,Amil,Reguler,Nominal Tinggi
+922,39,pria,Wiraswasta,Ramadhan,Nominal Diatas Rata-rata
+923,36,wanita,Pegawai Swasta,Ramadhan,Nominal Diatas Rata-rata
+924,31,pria,Amil,Reguler,Nominal Tinggi
+925,39,pria,PNS,Reguler,Nominal Sedang
+926,38,pria,PNS,Reguler,Nominal Sedang
+927,33,wanita,Akuntansi,Reguler,Nominal Tinggi
+928,22,pria,Amil,Kurban,Nominal Tinggi
+929,35,pria,Amil,Kurban,Nominal Tinggi
+930,40,pria,Amil,Reguler,Nominal Tinggi
+931,33,pria,PNS,Ramadhan,Nominal Diatas Rata-rata
+932,27,pria,Pegawai Swasta,Ramadhan,Nominal Diatas Rata-rata
+933,47,pria,Amil,Ramadhan,Nominal Tinggi
+934,49,pria,Wiraswasta,Reguler,Nominal Sedang
+935,35,wanita,Pegawai Swasta,Reguler,Nominal Sedang
+936,45,pria,Amil,Reguler,Nominal Tinggi
+937,80,pria,Amil,Reguler,Nominal Tinggi
+938,53,pria,IT,Reguler,Nominal Sedang
+939,41,pria,Lainnya,Reguler,Nominal Sedang
+940,51,pria,Teknisi,Reguler,Nominal Sedang
+941,41,pria,Staff,Reguler,Nominal Sedang
+942,40,wanita,PNS,Reguler,Nominal Sedang
+943,69,pria,Lainnya,Ramadhan,Nominal Rendah
+944,29,wanita,Lainnya,Reguler,Nominal Sedang
+945,40,pria,Tidak Bekerja,Reguler,Nominal Sedang
+946,31,pria,Lainnya,Reguler,Nominal Sedang
+947,29,wanita,Lainnya,Reguler,Nominal Sedang
+948,33,wanita,Wiraswasta,Ramadhan,Nominal Diatas Rata-rata
+949,29,wanita,Akuntansi,Reguler,Nominal Tinggi
+950,40,pria,PNS,Reguler,Nominal Sedang
+951,57,pria,Wiraswasta,Ramadhan,Nominal Diatas Rata-rata
+952,40,pria,PNS,Reguler,Nominal Sedang
+953,41,pria,Industri,Reguler,Nominal Sedang
+954,33,pria,Wiraswasta,Reguler,Nominal Sedang
+955,35,pria,Industri,Kurban,Nominal Rendah
+956,41,pria,Amil,Ramadhan,Nominal Tinggi
+957,32,pria,Akuntansi,Ramadhan,Nominal Tinggi
+958,37,wanita,Kesehatan,Kurban,Nominal Rendah
+959,32,pria,Akuntansi,Reguler,Nominal Tinggi
+960,36,pria,Lainnya,Ramadhan,Nominal Rendah
+961,38,wanita,Lainnya,Reguler,Nominal Sedang
+962,31,wanita,Amil,Kurban,Nominal Tinggi
+963,40,pria,PNS,Kurban,Nominal Diatas Rata-rata
+964,31,wanita,Staff,Reguler,Nominal Sedang
+965,34,pria,Konsultan,Kurban,Nominal Rendah
+966,41,pria,Kesehatan,Reguler,Nominal Sedang
+967,31,pria,Amil,Ramadhan,Nominal Tinggi
+968,34,pria,Industri,Reguler,Nominal Sedang
+969,36,pria,Lainnya,Reguler,Nominal Sedang
+970,37,wanita,PNS,Reguler,Nominal Sedang
+971,35,pria,Amil,Kurban,Nominal Tinggi
+972,41,pria,Amil,Kurban,Nominal Tinggi
+973,69,pria,Wiraswasta,Ramadhan,Nominal Diatas Rata-rata
+974,44,pria,Kesehatan,Reguler,Nominal Sedang
+975,39,pria,Lainnya,Reguler,Nominal Sedang
+976,46,pria,Konsultan,Reguler,Nominal Sedang
+977,31,pria,PNS,Kurban,Nominal Diatas Rata-rata
+978,31,wanita,Staff,Reguler,Nominal Sedang
+979,34,pria,PNS,Reguler,Nominal Sedang
+980,42,wanita,Freelancer,Reguler,Nominal Sedang
+981,37,wanita,Auditor,Reguler,Nominal Tinggi
+982,40,pria,Tidak Bekerja,Reguler,Nominal Sedang
+983,49,pria,Amil,Reguler,Nominal Tinggi
+984,31,pria,Konsultan,Reguler,Nominal Sedang
+985,41,pria,Amil,Reguler,Nominal Tinggi
+986,38,wanita,Lainnya,Reguler,Nominal Sedang
+987,41,wanita,Lainnya,Reguler,Nominal Sedang
+988,36,pria,Amil,Reguler,Nominal Tinggi
+989,44,wanita,Pegawai Swasta,Reguler,Nominal Sedang
+990,31,wanita,Amil,Reguler,Nominal Tinggi
+991,47,pria,Industri,Kurban,Nominal Rendah
+992,41,pria,Amil,Reguler,Nominal Tinggi
+993,44,wanita,Pegawai Swasta,Kurban,Nominal Diatas Rata-rata
+994,39,wanita,Amil,Reguler,Nominal Tinggi
+995,34,wanita,Amil,Kurban,Nominal Tinggi
+996,29,wanita,Lainnya,Ramadhan,Nominal Rendah
+997,50,pria,PNS,Ramadhan,Nominal Diatas Rata-rata
+998,32,wanita,Wiraswasta,Reguler,Nominal Sedang
+999,39,pria,Amil,Ramadhan,Nominal Tinggi
+1000,53,pria,Tidak Bekerja,Ramadhan,Nominal Diatas Rata-rata
+1001,38,wanita,Lainnya,Reguler,Nominal Sedang
+1002,50,pria,Wiraswasta,Reguler,Nominal Sedang
+1003,36,pria,Amil,Reguler,Nominal Tinggi
+1004,37,pria,Amil,Reguler,Nominal Tinggi
+1005,59,wanita,PNS,Ramadhan,Nominal Diatas Rata-rata
+1006,38,wanita,Lainnya,Ramadhan,Nominal Rendah
+1007,52,pria,Amil,Reguler,Nominal Tinggi
+1008,34,pria,Wiraswasta,Reguler,Nominal Sedang
+1009,33,pria,Energi,Reguler,Nominal Sedang
+1010,59,pria,Pegawai Swasta,Reguler,Nominal Sedang
+1011,41,pria,Kesehatan,Ramadhan,Nominal Rendah
+1012,38,pria,Pegawai Swasta,Reguler,Nominal Sedang
+1013,31,pria,Industri,Reguler,Nominal Sedang
+1014,37,pria,Amil,Reguler,Nominal Tinggi
+1015,42,pria,Tidak Bekerja,Kurban,Nominal Diatas Rata-rata
+1016,42,pria,Tidak Bekerja,Ramadhan,Nominal Diatas Rata-rata
+1017,34,pria,Konsultan,Reguler,Nominal Sedang
+1018,41,pria,Staff,Reguler,Nominal Sedang
+1019,46,pria,PNS,Ramadhan,Nominal Diatas Rata-rata
+1020,69,pria,Amil,Reguler,Nominal Tinggi
+1021,42,pria,Tidak Bekerja,Reguler,Nominal Sedang
+1022,31,pria,Konsultan,Reguler,Nominal Sedang
+1023,42,wanita,Tidak Bekerja,Ramadhan,Nominal Diatas Rata-rata
+1024,56,wanita,Tidak Bekerja,Reguler,Nominal Sedang
+1025,30,wanita,Pegawai Swasta,Reguler,Nominal Sedang
+1026,46,pria,PNS,Reguler,Nominal Sedang
+1027,41,pria,Wiraswasta,Kurban,Nominal Diatas Rata-rata
+1028,36,pria,Amil,Reguler,Nominal Tinggi
+1029,40,pria,Tidak Bekerja,Kurban,Nominal Diatas Rata-rata
+1030,31,pria,Staff,Reguler,Nominal Sedang
+1031,80,pria,Amil,Reguler,Nominal Tinggi
+1032,59,pria,Marketing,Reguler,Nominal Sedang
+1033,69,pria,Amil,Ramadhan,Nominal Tinggi
+1034,40,wanita,Tidak Bekerja,Reguler,Nominal Sedang
+1035,30,wanita,PNS,Ramadhan,Nominal Diatas Rata-rata
+1036,43,pria,Pegawai Swasta,Reguler,Nominal Sedang
+1037,33,pria,IT,Ramadhan,Nominal Tinggi
+1038,36,wanita,Pegawai Swasta,Reguler,Nominal Sedang
+1039,47,pria,Industri,Reguler,Nominal Sedang
+1040,33,wanita,Lainnya,Reguler,Nominal Sedang
+1041,46,pria,Konsultan,Kurban,Nominal Rendah
+1042,31,pria,Staff,Reguler,Nominal Sedang
+1043,31,pria,Staff,Kurban,Nominal Diatas Rata-rata
+1044,52,pria,Amil,Reguler,Nominal Tinggi
+1045,40,pria,Tidak Bekerja,Reguler,Nominal Sedang
+1046,35,pria,Amil,Reguler,Nominal Tinggi
+1047,41,pria,Amil,Reguler,Nominal Tinggi
+1048,41,wanita,IT,Reguler,Nominal Sedang
+1049,42,pria,Tidak Bekerja,Reguler,Nominal Sedang
+1050,39,pria,IT,Reguler,Nominal Sedang
+1051,32,pria,Lainnya,Reguler,Nominal Sedang
+1052,39,pria,Amil,Reguler,Nominal Tinggi
+1053,56,pria,Amil,Kurban,Nominal Tinggi
+1054,39,pria,IT,Reguler,Nominal Sedang
+1055,33,pria,Pegawai Swasta,Reguler,Nominal Sedang
+1056,47,pria,Industri,Reguler,Nominal Sedang
+1057,50,pria,Wiraswasta,Reguler,Nominal Sedang
+1058,54,pria,Wiraswasta,Ramadhan,Nominal Diatas Rata-rata
+1059,37,wanita,Kesehatan,Reguler,Nominal Sedang
+1060,28,wanita,Pegawai Swasta,Reguler,Nominal Sedang
+1061,37,pria,Amil,Reguler,Nominal Tinggi
+1062,69,pria,Amil,Reguler,Nominal Tinggi
+1063,38,wanita,Lainnya,Reguler,Nominal Sedang
+1064,31,pria,Pegawai Swasta,Ramadhan,Nominal Diatas Rata-rata
+1065,41,pria,Amil,Ramadhan,Nominal Tinggi
+1066,45,pria,Wiraswasta,Reguler,Nominal Sedang
+1067,40,wanita,Konsultan,Reguler,Nominal Sedang
+1068,42,pria,Lainnya,Ramadhan,Nominal Rendah
+1069,29,pria,Amil,Reguler,Nominal Tinggi
+1070,46,pria,Akuntansi,Kurban,Nominal Tinggi
+1071,69,pria,Lainnya,Ramadhan,Nominal Rendah
+1072,27,wanita,Amil,Reguler,Nominal Tinggi
+1073,35,pria,Pegawai Swasta,Reguler,Nominal Sedang
+1074,40,wanita,Tidak Bekerja,Reguler,Nominal Sedang
+1075,36,pria,Wiraswasta,Ramadhan,Nominal Diatas Rata-rata
+1076,41,pria,Amil,Ramadhan,Nominal Tinggi
+1077,35,pria,Lainnya,Reguler,Nominal Sedang
+1078,31,pria,Amil,Kurban,Nominal Tinggi
+1079,53,pria,IT,Reguler,Nominal Sedang
+1080,33,pria,Konsultan,Reguler,Nominal Sedang
+1081,38,pria,PNS,Reguler,Nominal Sedang
+1082,39,pria,Akuntansi,Reguler,Nominal Tinggi
+1083,38,wanita,Lainnya,Ramadhan,Nominal Rendah
+1084,35,pria,Industri,Reguler,Nominal Sedang
+1085,51,pria,Teknisi,Reguler,Nominal Sedang
+1086,39,pria,Industri,Ramadhan,Nominal Rendah
+1087,32,wanita,Staff,Reguler,Nominal Sedang
+1088,49,pria,Energi,Ramadhan,Nominal Tinggi
+1089,32,pria,Akuntansi,Reguler,Nominal Tinggi
+1090,28,pria,Pegawai Swasta,Reguler,Nominal Sedang
+1091,37,pria,PNS,Ramadhan,Nominal Diatas Rata-rata
+1092,36,wanita,Marketing,Kurban,Nominal Rendah
+1093,30,wanita,Lainnya,Reguler,Nominal Sedang
+1094,54,pria,Tidak Bekerja,Reguler,Nominal Sedang
+1095,31,pria,Lainnya,Ramadhan,Nominal Rendah
+1096,42,pria,Tidak Bekerja,Kurban,Nominal Diatas Rata-rata
+1097,41,pria,Amil,Kurban,Nominal Tinggi
+1098,46,pria,Wiraswasta,Kurban,Nominal Diatas Rata-rata
+1099,42,pria,PNS,Reguler,Nominal Sedang
+1100,40,pria,Tidak Bekerja,Reguler,Nominal Sedang
+1101,35,pria,Pegawai Swasta,Reguler,Nominal Sedang
+1102,32,pria,Konsultan,Reguler,Nominal Sedang
+1103,51,pria,Lainnya,Reguler,Nominal Sedang
+1104,39,pria,PNS,Reguler,Nominal Sedang
+1105,41,pria,Amil,Reguler,Nominal Tinggi
+1106,42,pria,PNS,Reguler,Nominal Sedang
+1107,31,wanita,Amil,Ramadhan,Nominal Tinggi
+1108,31,pria,Industri,Reguler,Nominal Sedang
+1109,48,wanita,PNS,Reguler,Nominal Sedang
+1110,35,pria,Amil,Ramadhan,Nominal Tinggi
+1111,59,pria,Marketing,Ramadhan,Nominal Rendah
+1112,51,pria,Amil,Reguler,Nominal Tinggi
+1113,38,pria,Amil,Reguler,Nominal Tinggi
+1114,38,pria,Pegawai Swasta,Ramadhan,Nominal Diatas Rata-rata
+1115,47,pria,Amil,Ramadhan,Nominal Tinggi
+1116,35,pria,Freelancer,Kurban,Nominal Tinggi
+1117,34,pria,Amil,Reguler,Nominal Tinggi
+1118,44,wanita,IT,Reguler,Nominal Sedang
+1119,28,pria,Amil,Reguler,Nominal Tinggi
+1120,34,pria,Amil,Kurban,Nominal Tinggi
+1121,33,pria,PNS,Reguler,Nominal Sedang
+1122,40,pria,Tidak Bekerja,Reguler,Nominal Sedang
+1123,45,pria,Amil,Ramadhan,Nominal Tinggi
+1124,39,pria,Amil,Reguler,Nominal Tinggi
+1125,40,wanita,Tidak Bekerja,Reguler,Nominal Sedang
+1126,28,wanita,Industri,Reguler,Nominal Sedang
+1127,35,pria,Amil,Reguler,Nominal Tinggi
+1128,47,pria,Amil,Reguler,Nominal Tinggi
+1129,28,pria,Staff,Ramadhan,Nominal Diatas Rata-rata
+1130,44,pria,Industri,Reguler,Nominal Sedang
+1131,35,pria,Amil,Ramadhan,Nominal Tinggi
+1132,56,pria,Amil,Ramadhan,Nominal Tinggi
+1133,32,wanita,PNS,Ramadhan,Nominal Diatas Rata-rata
+1134,54,pria,PNS,Reguler,Nominal Sedang
+1135,40,pria,Tidak Bekerja,Reguler,Nominal Sedang
+1136,29,pria,Amil,Ramadhan,Nominal Tinggi
+1137,55,pria,Lainnya,Reguler,Nominal Sedang
+1138,30,pria,Kesehatan,Reguler,Nominal Sedang
+1139,45,pria,Amil,Reguler,Nominal Tinggi
+1140,35,wanita,Pegawai Swasta,Reguler,Nominal Sedang
+1141,40,pria,PNS,Kurban,Nominal Diatas Rata-rata
+1142,42,pria,Tidak Bekerja,Kurban,Nominal Diatas Rata-rata
+1143,29,wanita,Lainnya,Reguler,Nominal Sedang
+1144,33,pria,Freelancer,Ramadhan,Nominal Tinggi
+1145,22,pria,Amil,Reguler,Nominal Tinggi
+1146,33,pria,Konsultan,Reguler,Nominal Sedang
+1147,41,pria,Transportasi,Reguler,Nominal Sedang
+1148,31,pria,Amil,Ramadhan,Nominal Tinggi
+1149,30,pria,PNS,Reguler,Nominal Sedang
+1150,38,pria,Pegawai Swasta,Reguler,Nominal Sedang
+1151,72,pria,PNS,Reguler,Nominal Sedang
+1152,30,wanita,Staff,Ramadhan,Nominal Diatas Rata-rata
+1153,39,pria,IT,Reguler,Nominal Sedang
+1154,46,wanita,Akuntansi,Reguler,Nominal Tinggi
+1155,39,wanita,Pegawai Swasta,Reguler,Nominal Sedang
+1156,29,pria,Lainnya,Ramadhan,Nominal Rendah
+1157,42,pria,Tidak Bekerja,Ramadhan,Nominal Diatas Rata-rata
+1158,45,pria,Amil,Ramadhan,Nominal Tinggi
+1159,26,pria,Lainnya,Reguler,Nominal Sedang
+1160,59,pria,PNS,Reguler,Nominal Sedang
+1161,40,wanita,Konsultan,Reguler,Nominal Sedang
+1162,40,pria,Wiraswasta,Ramadhan,Nominal Diatas Rata-rata
+1163,37,pria,Amil,Kurban,Nominal Tinggi
+1164,51,pria,Amil,Reguler,Nominal Tinggi
+1165,35,pria,Pegawai Swasta,Reguler,Nominal Sedang
+1166,49,pria,Wiraswasta,Reguler,Nominal Sedang
+1167,31,pria,Lainnya,Reguler,Nominal Sedang
+1168,31,wanita,Amil,Reguler,Nominal Tinggi
+1169,38,pria,PNS,Reguler,Nominal Sedang
+1170,35,pria,Teknisi,Reguler,Nominal Sedang
+1171,30,wanita,Pegawai Swasta,Kurban,Nominal Diatas Rata-rata
+1172,34,pria,Pegawai Swasta,Reguler,Nominal Sedang
+1173,40,pria,PNS,Kurban,Nominal Diatas Rata-rata
+1174,33,pria,Energi,Reguler,Nominal Sedang
+1175,41,pria,Wiraswasta,Ramadhan,Nominal Diatas Rata-rata
+1176,32,pria,Konsultan,Reguler,Nominal Sedang
+1177,27,wanita,Lainnya,Reguler,Nominal Sedang
+1178,34,pria,Industri,Reguler,Nominal Sedang
+1179,45,pria,Amil,Ramadhan,Nominal Tinggi
+1180,39,pria,Wiraswasta,Reguler,Nominal Sedang
+1181,49,pria,Amil,Reguler,Nominal Tinggi
+1182,40,pria,Tidak Bekerja,Ramadhan,Nominal Diatas Rata-rata
+1183,55,pria,Lainnya,Reguler,Nominal Sedang
+1184,30,pria,Amil,Reguler,Nominal Tinggi
+1185,31,pria,Amil,Reguler,Nominal Tinggi
+1186,40,pria,Tidak Bekerja,Ramadhan,Nominal Diatas Rata-rata
+1187,32,wanita,Wiraswasta,Reguler,Nominal Sedang
+1188,32,pria,Amil,Kurban,Nominal Tinggi
+1189,31,wanita,IT,Ramadhan,Nominal Tinggi
+1190,29,pria,Amil,Reguler,Nominal Tinggi
+1191,48,pria,Amil,Reguler,Nominal Tinggi
+1192,52,pria,Tidak Bekerja,Reguler,Nominal Sedang
+1193,40,wanita,Tidak Bekerja,Reguler,Nominal Sedang
+1194,35,pria,Amil,Reguler,Nominal Tinggi
+1195,36,pria,Amil,Ramadhan,Nominal Tinggi
+1196,30,pria,Konsultan,Reguler,Nominal Sedang
+1197,38,pria,Amil,Reguler,Nominal Tinggi
+1198,34,pria,Wiraswasta,Reguler,Nominal Sedang
+1199,69,pria,Amil,Reguler,Nominal Tinggi
+1200,28,wanita,Industri,Reguler,Nominal Sedang
+1201,27,wanita,Lainnya,Reguler,Nominal Sedang
+1202,34,pria,Wiraswasta,Ramadhan,Nominal Diatas Rata-rata
+1203,38,wanita,Lainnya,Reguler,Nominal Sedang
+1204,39,pria,Amil,Kurban,Nominal Tinggi
+1205,40,pria,PNS,Ramadhan,Nominal Diatas Rata-rata
+1206,39,pria,Energi,Ramadhan,Nominal Tinggi
+1207,48,pria,Tidak Bekerja,Reguler,Nominal Sedang
+1208,22,pria,Amil,Reguler,Nominal Tinggi
+1209,30,wanita,Konsultan,Ramadhan,Nominal Rendah
+1210,41,pria,Staff,Kurban,Nominal Diatas Rata-rata
+1211,34,wanita,Amil,Reguler,Nominal Tinggi
+1212,37,pria,Amil,Reguler,Nominal Tinggi
+1213,39,pria,PNS,Reguler,Nominal Sedang
+1214,41,pria,Staff,Ramadhan,Nominal Diatas Rata-rata
+1215,34,pria,Wiraswasta,Reguler,Nominal Sedang
+1216,28,pria,Amil,Kurban,Nominal Tinggi
+1217,42,pria,Tidak Bekerja,Ramadhan,Nominal Diatas Rata-rata
+1218,53,pria,PNS,Ramadhan,Nominal Diatas Rata-rata
+1219,30,wanita,PNS,Ramadhan,Nominal Diatas Rata-rata
+1220,29,wanita,Lainnya,Reguler,Nominal Sedang
+1221,37,wanita,Kesehatan,Reguler,Nominal Sedang
+1222,36,pria,Amil,Ramadhan,Nominal Tinggi
+1223,33,pria,Amil,Reguler,Nominal Tinggi
+1224,56,pria,Amil,Reguler,Nominal Tinggi
+1225,28,pria,Amil,Kurban,Nominal Tinggi
+1226,32,pria,Amil,Reguler,Nominal Tinggi
+1227,36,pria,Wiraswasta,Reguler,Nominal Sedang
+1228,40,pria,Tidak Bekerja,Reguler,Nominal Sedang
+1229,33,pria,Wiraswasta,Ramadhan,Nominal Diatas Rata-rata
+1230,40,pria,Staff,Reguler,Nominal Sedang
+1231,37,pria,Teknisi,Reguler,Nominal Sedang
+1232,44,pria,Wiraswasta,Reguler,Nominal Sedang
+1233,40,pria,Tidak Bekerja,Reguler,Nominal Sedang
+1234,34,pria,Energi,Ramadhan,Nominal Tinggi
+1235,35,pria,PNS,Reguler,Nominal Sedang
+1236,36,wanita,Amil,Reguler,Nominal Tinggi
+1237,34,pria,Amil,Reguler,Nominal Tinggi
+1238,39,pria,Pegawai Swasta,Ramadhan,Nominal Diatas Rata-rata
+1239,36,wanita,Wiraswasta,Reguler,Nominal Sedang
+1240,31,pria,Konsultan,Reguler,Nominal Sedang
+1241,34,pria,Wiraswasta,Reguler,Nominal Sedang
+1242,31,wanita,PNS,Reguler,Nominal Sedang
+1243,51,pria,Lainnya,Reguler,Nominal Sedang
+1244,38,pria,Amil,Ramadhan,Nominal Tinggi
+1245,38,pria,PNS,Ramadhan,Nominal Diatas Rata-rata
+1246,34,pria,Staff,Reguler,Nominal Sedang
+1247,33,pria,PNS,Reguler,Nominal Sedang
+1248,50,wanita,Pegawai Swasta,Ramadhan,Nominal Diatas Rata-rata
+1249,47,pria,Amil,Reguler,Nominal Tinggi
+1250,37,pria,Pegawai Swasta,Ramadhan,Nominal Diatas Rata-rata
+1251,30,pria,Amil,Reguler,Nominal Tinggi
+1252,34,pria,Wiraswasta,Reguler,Nominal Sedang
+1253,39,pria,Industri,Ramadhan,Nominal Rendah
+1254,41,pria,Amil,Reguler,Nominal Tinggi
+1255,62,wanita,Amil,Ramadhan,Nominal Tinggi
+1256,48,pria,Amil,Reguler,Nominal Tinggi
+1257,40,pria,PNS,Reguler,Nominal Sedang
+1258,56,pria,Amil,Reguler,Nominal Tinggi
+1259,30,pria,Amil,Reguler,Nominal Tinggi
+1260,32,wanita,Wiraswasta,Reguler,Nominal Sedang
+1261,49,pria,Tidak Bekerja,Ramadhan,Nominal Diatas Rata-rata
+1262,38,wanita,Lainnya,Ramadhan,Nominal Rendah
+1263,37,pria,PNS,Reguler,Nominal Sedang
+1264,40,pria,Tidak Bekerja,Reguler,Nominal Sedang
+1265,29,pria,Amil,Reguler,Nominal Tinggi
+1266,56,pria,Amil,Reguler,Nominal Tinggi
+1267,40,pria,Tidak Bekerja,Reguler,Nominal Sedang
+1268,34,pria,Konsultan,Ramadhan,Nominal Rendah
+1269,46,pria,PNS,Ramadhan,Nominal Diatas Rata-rata
+1270,57,pria,Tidak Bekerja,Kurban,Nominal Diatas Rata-rata
+1271,55,pria,Lainnya,Reguler,Nominal Sedang
+1272,27,wanita,Lainnya,Reguler,Nominal Sedang
+1273,29,wanita,Akuntansi,Reguler,Nominal Tinggi
+1274,35,pria,Amil,Ramadhan,Nominal Tinggi
+1275,35,pria,Amil,Reguler,Nominal Tinggi
+1276,35,pria,Amil,Ramadhan,Nominal Tinggi
+1277,56,pria,Amil,Reguler,Nominal Tinggi
+1278,31,pria,Amil,Ramadhan,Nominal Tinggi
+1279,40,wanita,Konsultan,Reguler,Nominal Sedang
+1280,28,pria,Amil,Kurban,Nominal Tinggi
+1281,34,pria,Konsultan,Kurban,Nominal Rendah
+1282,40,pria,Amil,Reguler,Nominal Tinggi
+1283,32,pria,Lainnya,Reguler,Nominal Sedang
+1284,65,pria,Wiraswasta,Kurban,Nominal Diatas Rata-rata
+1285,48,pria,Amil,Reguler,Nominal Tinggi
+1286,33,wanita,Staff,Reguler,Nominal Sedang
+1287,48,pria,PNS,Reguler,Nominal Sedang
+1288,33,wanita,Lainnya,Ramadhan,Nominal Rendah
+1289,35,pria,Konsultan,Reguler,Nominal Sedang
+1290,34,pria,Lainnya,Reguler,Nominal Sedang
+1291,29,wanita,Lainnya,Reguler,Nominal Sedang
+1292,51,pria,Lainnya,Reguler,Nominal Sedang
+1293,36,pria,Tidak Bekerja,Ramadhan,Nominal Diatas Rata-rata
+1294,46,pria,Wiraswasta,Ramadhan,Nominal Diatas Rata-rata
+1295,51,pria,PNS,Reguler,Nominal Sedang
+1296,38,wanita,Lainnya,Reguler,Nominal Sedang
+1297,40,pria,Staff,Ramadhan,Nominal Diatas Rata-rata
+1298,42,pria,Wiraswasta,Reguler,Nominal Sedang
+1299,34,pria,Konsultan,Ramadhan,Nominal Rendah
+1300,31,pria,PNS,Reguler,Nominal Sedang
+1301,54,pria,Amil,Kurban,Nominal Tinggi
+1302,54,pria,Wiraswasta,Ramadhan,Nominal Diatas Rata-rata
+1303,34,pria,Wiraswasta,Reguler,Nominal Sedang
+1304,50,wanita,PNS,Reguler,Nominal Sedang
+1305,34,pria,PNS,Ramadhan,Nominal Diatas Rata-rata
+1306,40,pria,Tidak Bekerja,Reguler,Nominal Sedang
+1307,80,pria,Amil,Ramadhan,Nominal Tinggi
+1308,40,pria,Staff,Reguler,Nominal Sedang
+1309,34,pria,Industri,Reguler,Nominal Sedang
+1310,31,pria,Lainnya,Reguler,Nominal Sedang
+1311,34,pria,Lainnya,Reguler,Nominal Sedang
+1312,33,pria,Wiraswasta,Reguler,Nominal Sedang
+1313,43,pria,Tidak Bekerja,Reguler,Nominal Sedang
+1314,44,pria,Kesehatan,Ramadhan,Nominal Rendah
+1315,32,wanita,Lainnya,Reguler,Nominal Sedang
+1316,69,pria,Lainnya,Ramadhan,Nominal Rendah
+1317,44,wanita,Pegawai Swasta,Reguler,Nominal Sedang
+1318,40,wanita,TNI/POLRI,Reguler,Nominal Sedang
+1319,38,pria,Amil,Reguler,Nominal Tinggi
+1320,31,wanita,IT,Ramadhan,Nominal Tinggi
+1321,45,wanita,Amil,Ramadhan,Nominal Tinggi
+1322,34,pria,Konsultan,Kurban,Nominal Rendah
+1323,60,wanita,PNS,Ramadhan,Nominal Diatas Rata-rata
+1324,34,pria,Industri,Reguler,Nominal Sedang
+1325,51,pria,Lainnya,Reguler,Nominal Sedang
+1326,37,pria,Amil,Reguler,Nominal Tinggi
+1327,46,wanita,Akuntansi,Reguler,Nominal Tinggi
+1328,40,wanita,Tidak Bekerja,Reguler,Nominal Sedang
+1329,38,pria,Amil,Ramadhan,Nominal Tinggi
+1330,51,pria,Lainnya,Reguler,Nominal Sedang
+1331,32,wanita,Auditor,Ramadhan,Nominal Tinggi
+1332,40,pria,PNS,Reguler,Nominal Sedang
+1333,31,pria,Industri,Ramadhan,Nominal Rendah
+1334,38,wanita,Lainnya,Reguler,Nominal Sedang
+1335,46,pria,Amil,Reguler,Nominal Tinggi
+1336,30,pria,Konsultan,Reguler,Nominal Sedang
+1337,41,pria,Wiraswasta,Reguler,Nominal Sedang
+1338,30,wanita,Pegawai Swasta,Reguler,Nominal Sedang
+1339,40,pria,PNS,Reguler,Nominal Sedang
+1340,31,wanita,Staff,Reguler,Nominal Sedang
+1341,34,pria,Amil,Kurban,Nominal Tinggi
+1342,35,pria,Energi,Reguler,Nominal Sedang
+1343,38,wanita,Lainnya,Reguler,Nominal Sedang
+1344,49,pria,Tidak Bekerja,Kurban,Nominal Diatas Rata-rata
+1345,40,wanita,Tidak Bekerja,Reguler,Nominal Sedang
+1346,40,pria,Amil,Reguler,Nominal Tinggi
+1347,25,wanita,Pegawai Swasta,Reguler,Nominal Sedang
+1348,39,pria,IT,Reguler,Nominal Sedang
+1349,48,pria,Amil,Kurban,Nominal Tinggi
+1350,38,wanita,Lainnya,Reguler,Nominal Sedang
+1351,52,pria,Tidak Bekerja,Reguler,Nominal Sedang
+1352,41,wanita,Amil,Ramadhan,Nominal Tinggi
+1353,31,pria,Amil,Reguler,Nominal Tinggi
+1354,35,pria,Industri,Reguler,Nominal Sedang
+1355,38,pria,Amil,Ramadhan,Nominal Tinggi
+1356,53,pria,PNS,Ramadhan,Nominal Diatas Rata-rata
+1357,39,pria,Industri,Kurban,Nominal Rendah
+1358,32,pria,IT,Reguler,Nominal Sedang
+1359,69,pria,Amil,Ramadhan,Nominal Tinggi
+1360,33,pria,Konsultan,Ramadhan,Nominal Rendah
+1361,30,pria,Pegawai Swasta,Reguler,Nominal Sedang
+1362,40,wanita,Konsultan,Reguler,Nominal Sedang
+1363,37,pria,Amil,Ramadhan,Nominal Tinggi
+1364,44,pria,Wiraswasta,Reguler,Nominal Sedang
+1365,40,wanita,Wiraswasta,Ramadhan,Nominal Diatas Rata-rata
+1366,65,pria,Wiraswasta,Reguler,Nominal Sedang
+1367,22,pria,Amil,Reguler,Nominal Tinggi
+1368,40,pria,Tidak Bekerja,Reguler,Nominal Sedang
+1369,46,pria,PNS,Ramadhan,Nominal Diatas Rata-rata
+1370,33,pria,Konsultan,Reguler,Nominal Sedang
+1371,31,pria,Amil,Reguler,Nominal Tinggi
+1372,32,pria,Lainnya,Reguler,Nominal Sedang
+1373,29,pria,Amil,Ramadhan,Nominal Tinggi
+1374,29,pria,Konsultan,Reguler,Nominal Sedang
+1375,32,pria,Pegawai Swasta,Reguler,Nominal Sedang
+1376,51,pria,Lainnya,Kurban,Nominal Rendah
+1377,39,pria,Amil,Reguler,Nominal Tinggi
+1378,33,pria,Konsultan,Kurban,Nominal Rendah
+1379,30,wanita,PNS,Reguler,Nominal Sedang
+1380,37,pria,Tidak Bekerja,Reguler,Nominal Sedang
+1381,30,pria,PNS,Kurban,Nominal Diatas Rata-rata
+1382,33,wanita,Amil,Reguler,Nominal Tinggi
+1383,41,pria,Staff,Ramadhan,Nominal Diatas Rata-rata
+1384,38,pria,Staff,Kurban,Nominal Diatas Rata-rata
+1385,33,wanita,Amil,Kurban,Nominal Tinggi
+1386,53,pria,PNS,Ramadhan,Nominal Diatas Rata-rata
+1387,46,pria,Wiraswasta,Reguler,Nominal Sedang
+1388,49,pria,Lainnya,Reguler,Nominal Sedang
+1389,50,pria,Konsultan,Ramadhan,Nominal Rendah
+1390,34,pria,Lainnya,Reguler,Nominal Sedang
+1391,38,pria,Wiraswasta,Reguler,Nominal Sedang
+1392,37,pria,Amil,Kurban,Nominal Tinggi
+1393,40,wanita,Konsultan,Reguler,Nominal Sedang
+1394,31,pria,Amil,Reguler,Nominal Tinggi
+1395,48,pria,Amil,Reguler,Nominal Tinggi
+1396,46,pria,Konsultan,Reguler,Nominal Sedang
+1397,36,wanita,Amil,Reguler,Nominal Tinggi
+1398,36,wanita,Freelancer,Ramadhan,Nominal Tinggi
+1399,30,pria,Kesehatan,Reguler,Nominal Sedang
+1400,39,pria,PNS,Reguler,Nominal Sedang
+1401,37,wanita,Amil,Reguler,Nominal Tinggi
+1402,29,wanita,Lainnya,Kurban,Nominal Rendah
+1403,30,pria,Amil,Reguler,Nominal Tinggi
+1404,30,pria,Kesehatan,Ramadhan,Nominal Rendah
+1405,32,pria,Amil,Kurban,Nominal Tinggi
+1406,42,pria,Tidak Bekerja,Reguler,Nominal Sedang
+1407,51,pria,PNS,Ramadhan,Nominal Diatas Rata-rata
+1408,32,pria,Pegawai Swasta,Reguler,Nominal Sedang
+1409,36,pria,Amil,Reguler,Nominal Tinggi
+1410,39,pria,Amil,Reguler,Nominal Tinggi
+1411,47,pria,Amil,Kurban,Nominal Tinggi
+1412,41,pria,Amil,Reguler,Nominal Tinggi
+1413,40,pria,Tidak Bekerja,Ramadhan,Nominal Diatas Rata-rata
+1414,48,pria,Amil,Reguler,Nominal Tinggi
+1415,34,pria,Industri,Kurban,Nominal Rendah
+1416,48,pria,Amil,Reguler,Nominal Tinggi
+1417,45,pria,Amil,Reguler,Nominal Tinggi
+1418,37,pria,PNS,Reguler,Nominal Sedang
+1419,39,wanita,Amil,Kurban,Nominal Tinggi
+1420,37,pria,Tidak Bekerja,Reguler,Nominal Sedang
+1421,28,pria,Amil,Reguler,Nominal Tinggi
+1422,40,pria,Tidak Bekerja,Reguler,Nominal Sedang
+1423,42,pria,Tidak Bekerja,Reguler,Nominal Sedang
+1424,36,pria,Pegawai Swasta,Reguler,Nominal Sedang
+1425,31,pria,PNS,Reguler,Nominal Sedang
+1426,40,pria,Tidak Bekerja,Reguler,Nominal Sedang
+1427,31,pria,Amil,Reguler,Nominal Tinggi
+1428,42,pria,PNS,Reguler,Nominal Sedang
+1429,39,pria,Amil,Reguler,Nominal Tinggi
+1430,52,pria,Pegawai Swasta,Reguler,Nominal Sedang
+1431,29,wanita,Akuntansi,Reguler,Nominal Tinggi
+1432,57,pria,Lainnya,Reguler,Nominal Sedang
+1433,39,pria,Akuntansi,Reguler,Nominal Tinggi
+1434,38,pria,Amil,Ramadhan,Nominal Tinggi
+1435,37,pria,Tidak Bekerja,Reguler,Nominal Sedang
+1436,33,pria,Energi,Reguler,Nominal Sedang
+1437,33,wanita,Tidak Bekerja,Kurban,Nominal Diatas Rata-rata
+1438,38,pria,Amil,Reguler,Nominal Tinggi
+1439,49,pria,PNS,Ramadhan,Nominal Diatas Rata-rata
+1440,44,pria,Amil,Reguler,Nominal Tinggi
+1441,41,pria,Amil,Reguler,Nominal Tinggi
+1442,41,pria,Amil,Reguler,Nominal Tinggi
+1443,51,pria,Pegawai Swasta,Reguler,Nominal Sedang
+1444,41,pria,Amil,Reguler,Nominal Tinggi
+1445,40,pria,Tidak Bekerja,Ramadhan,Nominal Diatas Rata-rata
+1446,42,pria,Tidak Bekerja,Kurban,Nominal Diatas Rata-rata
+1447,35,pria,Pegawai Swasta,Reguler,Nominal Sedang
+1448,40,pria,Tidak Bekerja,Reguler,Nominal Sedang
+1449,51,pria,Lainnya,Reguler,Nominal Sedang
+1450,35,wanita,PNS,Reguler,Nominal Sedang
+1451,29,pria,Pegawai Swasta,Reguler,Nominal Sedang
+1452,41,pria,Lainnya,Reguler,Nominal Sedang
+1453,57,pria,Tidak Bekerja,Reguler,Nominal Sedang
+1454,39,pria,Wiraswasta,Reguler,Nominal Sedang
+1455,33,wanita,Tidak Bekerja,Reguler,Nominal Sedang
+1456,36,pria,Amil,Reguler,Nominal Tinggi
+1457,32,pria,IT,Reguler,Nominal Sedang
+1458,42,pria,PNS,Reguler,Nominal Sedang
+1459,39,wanita,Pegawai Swasta,Reguler,Nominal Sedang
+1460,35,wanita,Pegawai Swasta,Reguler,Nominal Sedang
+1461,42,pria,Tidak Bekerja,Reguler,Nominal Sedang
+1462,63,wanita,Pegawai Swasta,Reguler,Nominal Sedang
+1463,41,pria,Amil,Kurban,Nominal Tinggi
+1464,53,pria,PNS,Reguler,Nominal Sedang
+1465,51,pria,PNS,Reguler,Nominal Sedang
+1466,35,pria,Pegawai Swasta,Reguler,Nominal Sedang
+1467,37,pria,Lainnya,Ramadhan,Nominal Rendah
+1468,27,wanita,Amil,Reguler,Nominal Tinggi
+1469,32,wanita,PNS,Ramadhan,Nominal Diatas Rata-rata
+1470,42,pria,Tidak Bekerja,Reguler,Nominal Sedang
+1471,41,pria,Amil,Kurban,Nominal Tinggi
+1472,33,pria,Amil,Reguler,Nominal Tinggi
+1473,39,pria,IT,Reguler,Nominal Sedang
+1474,69,pria,Amil,Kurban,Nominal Tinggi
+1475,37,wanita,Auditor,Ramadhan,Nominal Tinggi
+1476,46,pria,PNS,Kurban,Nominal Diatas Rata-rata
+1477,33,pria,PNS,Reguler,Nominal Sedang
+1478,22,pria,Amil,Ramadhan,Nominal Tinggi
+1479,35,pria,Pegawai Swasta,Reguler,Nominal Sedang
+1480,39,pria,Amil,Reguler,Nominal Tinggi
+1481,40,pria,PNS,Reguler,Nominal Sedang
+1482,31,pria,Amil,Reguler,Nominal Tinggi
+1483,41,pria,Wiraswasta,Ramadhan,Nominal Diatas Rata-rata
+1484,51,pria,PNS,Reguler,Nominal Sedang
+1485,41,pria,Staff,Reguler,Nominal Sedang
+1486,38,pria,Amil,Reguler,Nominal Tinggi
+1487,35,pria,Industri,Ramadhan,Nominal Rendah
+1488,41,pria,Amil,Reguler,Nominal Tinggi
+1489,55,pria,PNS,Kurban,Nominal Diatas Rata-rata
+1490,30,pria,Kesehatan,Reguler,Nominal Sedang
+1491,42,pria,Tidak Bekerja,Reguler,Nominal Sedang
+1492,32,pria,Lainnya,Ramadhan,Nominal Rendah
+1493,33,pria,Konsultan,Reguler,Nominal Sedang
+1494,40,wanita,Konsultan,Reguler,Nominal Sedang
+1495,45,pria,Amil,Reguler,Nominal Tinggi
+1496,33,pria,Lainnya,Reguler,Nominal Sedang
+1497,41,pria,Lainnya,Reguler,Nominal Sedang
+1498,34,pria,Wiraswasta,Reguler,Nominal Sedang
+1499,37,wanita,Auditor,Reguler,Nominal Tinggi
+1500,38,wanita,Lainnya,Kurban,Nominal Rendah
+1501,33,wanita,Akuntansi,Reguler,Nominal Tinggi
+1502,39,pria,PNS,Reguler,Nominal Sedang
+1503,47,pria,Amil,Reguler,Nominal Tinggi
+1504,41,pria,Lainnya,Reguler,Nominal Sedang
+1505,32,pria,Pegawai Swasta,Reguler,Nominal Sedang
+1506,34,wanita,Amil,Kurban,Nominal Tinggi
+1507,33,pria,PNS,Kurban,Nominal Diatas Rata-rata
+1508,40,wanita,Konsultan,Reguler,Nominal Sedang
+1509,33,pria,Amil,Reguler,Nominal Tinggi
+1510,37,pria,Teknisi,Reguler,Nominal Sedang
+1511,35,pria,PNS,Reguler,Nominal Sedang
+1512,44,pria,Industri,Kurban,Nominal Rendah
+1513,39,pria,PNS,Reguler,Nominal Sedang
+1514,49,pria,Lainnya,Kurban,Nominal Rendah
+1515,33,pria,Lainnya,Ramadhan,Nominal Rendah
+1516,53,pria,PNS,Reguler,Nominal Sedang
+1517,42,pria,Wiraswasta,Reguler,Nominal Sedang
+1518,40,pria,Tidak Bekerja,Reguler,Nominal Sedang
+1519,33,pria,PNS,Reguler,Nominal Sedang
+1520,29,wanita,Lainnya,Reguler,Nominal Sedang
+1521,45,pria,Amil,Kurban,Nominal Tinggi
+1522,40,pria,Tidak Bekerja,Ramadhan,Nominal Diatas Rata-rata
+1523,42,pria,Tidak Bekerja,Reguler,Nominal Sedang
+1524,40,wanita,Tidak Bekerja,Reguler,Nominal Sedang
+1525,35,pria,PNS,Reguler,Nominal Sedang
+1526,35,pria,Teknisi,Reguler,Nominal Sedang
+1527,38,pria,Tidak Bekerja,Ramadhan,Nominal Diatas Rata-rata
+1528,39,pria,Staff,Reguler,Nominal Sedang
+1529,31,pria,Staff,Reguler,Nominal Sedang
+1530,32,pria,Lainnya,Reguler,Nominal Sedang
+1531,41,pria,Amil,Kurban,Nominal Tinggi
+1532,55,wanita,Wiraswasta,Ramadhan,Nominal Diatas Rata-rata
+1533,40,pria,Tidak Bekerja,Reguler,Nominal Sedang
+1534,40,pria,Akuntansi,Reguler,Nominal Tinggi
+1535,46,pria,Konsultan,Reguler,Nominal Sedang
+1536,34,pria,Marketing,Ramadhan,Nominal Rendah
+1537,47,pria,IT,Reguler,Nominal Sedang
+1538,36,pria,Wiraswasta,Ramadhan,Nominal Diatas Rata-rata
+1539,45,wanita,Amil,Kurban,Nominal Tinggi
+1540,30,pria,Konsultan,Reguler,Nominal Sedang
+1541,33,wanita,Pegawai Swasta,Kurban,Nominal Diatas Rata-rata
+1542,30,wanita,PNS,Reguler,Nominal Sedang
+1543,36,pria,Tidak Bekerja,Reguler,Nominal Sedang
+1544,53,wanita,Tidak Bekerja,Reguler,Nominal Sedang
+1545,47,pria,Amil,Reguler,Nominal Tinggi
+1546,28,pria,Konsultan,Ramadhan,Nominal Rendah
+1547,39,pria,Amil,Ramadhan,Nominal Tinggi
+1548,43,pria,Tidak Bekerja,Reguler,Nominal Sedang
+1549,40,pria,PNS,Reguler,Nominal Sedang
+1550,40,wanita,Konsultan,Reguler,Nominal Sedang
+1551,39,pria,Amil,Reguler,Nominal Tinggi
+1552,37,wanita,Amil,Reguler,Nominal Tinggi
+1553,37,pria,Amil,Reguler,Nominal Tinggi
+1554,56,pria,Lainnya,Ramadhan,Nominal Rendah
+1555,49,wanita,Wiraswasta,Reguler,Nominal Sedang
+1556,36,pria,PNS,Reguler,Nominal Sedang
+1557,54,pria,PNS,Ramadhan,Nominal Diatas Rata-rata
+1558,45,pria,Amil,Kurban,Nominal Tinggi
+1559,43,wanita,Tidak Bekerja,Ramadhan,Nominal Diatas Rata-rata
+1560,28,pria,Amil,Kurban,Nominal Tinggi
+1561,28,pria,Amil,Ramadhan,Nominal Tinggi
+1562,36,pria,Amil,Kurban,Nominal Tinggi
+1563,37,wanita,Auditor,Reguler,Nominal Tinggi
+1564,51,pria,Lainnya,Reguler,Nominal Sedang
+1565,45,pria,Amil,Kurban,Nominal Tinggi
+1566,47,pria,Industri,Reguler,Nominal Sedang
+1567,69,pria,Lainnya,Ramadhan,Nominal Rendah
+1568,45,pria,Amil,Reguler,Nominal Tinggi
+1569,32,pria,PNS,Ramadhan,Nominal Diatas Rata-rata
+1570,35,pria,Amil,Kurban,Nominal Tinggi
+1571,40,pria,Staff,Reguler,Nominal Sedang
+1572,40,pria,Tidak Bekerja,Reguler,Nominal Sedang
+1573,35,pria,Pegawai Swasta,Ramadhan,Nominal Diatas Rata-rata
+1574,51,pria,Lainnya,Ramadhan,Nominal Rendah
+1575,30,wanita,Pegawai Swasta,Reguler,Nominal Sedang
+1576,27,wanita,Amil,Reguler,Nominal Tinggi
+1577,30,pria,Marketing,Reguler,Nominal Sedang
+1578,38,wanita,Lainnya,Reguler,Nominal Sedang
+1579,40,wanita,Konsultan,Reguler,Nominal Sedang

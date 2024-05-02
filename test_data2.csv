@@ -1,0 +1,1581 @@
+umur,gender,occupation_group,periode_transaksi
+42,pria,IT,Reguler
+42,pria,Wiraswasta,Kurban
+40,wanita,Wiraswasta,Ramadhan
+40,wanita,Tidak Bekerja,Reguler
+38,pria,Wiraswasta,Reguler
+32,wanita,Staff,Reguler
+30,pria,Teknisi,Ramadhan
+28,pria,Staff,Reguler
+34,pria,Staff,Reguler
+42,pria,Tidak Bekerja,Reguler
+34,pria,Amil,Reguler
+45,pria,Amil,Kurban
+31,pria,Amil,Kurban
+42,pria,PNS,Ramadhan
+40,pria,Amil,Reguler
+47,pria,Industri,Reguler
+32,pria,Pegawai Swasta,Reguler
+40,wanita,Tidak Bekerja,Reguler
+44,pria,Amil,Ramadhan
+34,pria,TNI/POLRI,Reguler
+38,wanita,Lainnya,Kurban
+49,pria,Wiraswasta,Reguler
+44,pria,Kesehatan,Reguler
+34,wanita,Amil,Reguler
+40,pria,Amil,Reguler
+46,wanita,PNS,Reguler
+33,pria,Amil,Reguler
+29,wanita,Amil,Ramadhan
+33,wanita,Amil,Reguler
+42,pria,Amil,Reguler
+50,pria,Wiraswasta,Ramadhan
+40,pria,PNS,Ramadhan
+45,pria,Amil,Reguler
+37,pria,Industri,Reguler
+41,pria,Amil,Reguler
+31,wanita,PNS,Ramadhan
+39,pria,PNS,Reguler
+40,pria,PNS,Reguler
+32,wanita,Konsultan,Ramadhan
+27,pria,Pegawai Swasta,Reguler
+39,pria,Industri,Ramadhan
+31,pria,Lainnya,Reguler
+42,pria,Wiraswasta,Reguler
+47,pria,Amil,Reguler
+33,pria,PNS,Reguler
+29,wanita,Lainnya,Reguler
+40,pria,Konsultan,Reguler
+40,pria,Tidak Bekerja,Reguler
+34,pria,Lainnya,Reguler
+32,pria,Amil,Ramadhan
+28,pria,Pegawai Swasta,Reguler
+36,pria,Amil,Ramadhan
+32,pria,Lainnya,Reguler
+32,pria,Kesehatan,Reguler
+36,pria,Amil,Reguler
+37,pria,Amil,Reguler
+38,pria,Amil,Ramadhan
+31,pria,PNS,Reguler
+36,pria,Amil,Reguler
+46,pria,Wiraswasta,Reguler
+34,pria,Staff,Ramadhan
+38,pria,Energi,Reguler
+39,wanita,Pegawai Swasta,Kurban
+57,pria,Akuntansi,Ramadhan
+65,pria,Wiraswasta,Ramadhan
+41,pria,Wiraswasta,Ramadhan
+33,pria,PNS,Ramadhan
+69,pria,Lainnya,Ramadhan
+29,pria,Amil,Ramadhan
+51,wanita,Amil,Ramadhan
+66,pria,Wiraswasta,Reguler
+38,pria,Transportasi,Reguler
+41,pria,Kesehatan,Reguler
+39,wanita,Amil,Kurban
+36,wanita,Pegawai Swasta,Reguler
+31,wanita,Konsultan,Reguler
+31,wanita,Konsultan,Reguler
+38,wanita,Lainnya,Reguler
+69,pria,Wiraswasta,Reguler
+40,pria,Amil,Reguler
+42,pria,Amil,Reguler
+33,pria,Wiraswasta,Reguler
+30,pria,Kesehatan,Ramadhan
+37,wanita,PNS,Reguler
+51,pria,Lainnya,Ramadhan
+79,pria,Dokter,Reguler
+42,pria,Tidak Bekerja,Reguler
+38,pria,PNS,Reguler
+40,pria,Amil,Ramadhan
+46,pria,Wiraswasta,Reguler
+34,pria,Marketing,Reguler
+38,wanita,Lainnya,Reguler
+40,pria,Tidak Bekerja,Reguler
+38,pria,PNS,Kurban
+32,pria,Lainnya,Reguler
+51,pria,Lainnya,Reguler
+39,pria,Wiraswasta,Kurban
+30,pria,Kesehatan,Ramadhan
+40,pria,PNS,Reguler
+42,pria,Wiraswasta,Reguler
+55,pria,Lainnya,Reguler
+40,wanita,Tidak Bekerja,Reguler
+50,wanita,PNS,Reguler
+44,pria,PNS,Kurban
+30,wanita,PNS,Reguler
+45,wanita,Amil,Kurban
+40,pria,Tidak Bekerja,Reguler
+35,pria,Amil,Reguler
+29,wanita,Lainnya,Reguler
+39,wanita,Amil,Ramadhan
+50,pria,Amil,Kurban
+44,pria,PNS,Reguler
+31,wanita,Amil,Ramadhan
+31,wanita,Staff,Reguler
+69,pria,Lainnya,Ramadhan
+32,pria,Lainnya,Ramadhan
+38,wanita,Lainnya,Reguler
+69,pria,Lainnya,Ramadhan
+50,wanita,PNS,Reguler
+31,pria,Industri,Reguler
+34,pria,Industri,Reguler
+40,pria,Tidak Bekerja,Reguler
+50,pria,Wiraswasta,Kurban
+33,wanita,Pegawai Swasta,Reguler
+44,pria,Industri,Reguler
+55,pria,Tidak Bekerja,Reguler
+35,pria,Amil,Ramadhan
+41,pria,Amil,Reguler
+35,pria,Akuntansi,Reguler
+53,pria,PNS,Reguler
+42,pria,Tidak Bekerja,Kurban
+38,pria,PNS,Kurban
+28,wanita,Industri,Reguler
+45,pria,Amil,Reguler
+30,pria,Amil,Reguler
+38,pria,Amil,Kurban
+49,pria,Wiraswasta,Reguler
+30,pria,Amil,Reguler
+52,pria,Tidak Bekerja,Kurban
+37,pria,Akuntansi,Reguler
+35,pria,Amil,Ramadhan
+27,wanita,Pegawai Swasta,Reguler
+53,pria,IT,Reguler
+46,wanita,Akuntansi,Reguler
+40,pria,PNS,Reguler
+27,pria,Pegawai Swasta,Ramadhan
+33,pria,Konsultan,Reguler
+34,pria,Industri,Reguler
+60,wanita,PNS,Reguler
+33,pria,Energi,Kurban
+29,wanita,Akuntansi,Reguler
+27,pria,Pegawai Swasta,Reguler
+33,pria,Lainnya,Ramadhan
+31,pria,Pegawai Swasta,Reguler
+56,pria,Amil,Reguler
+44,wanita,Pegawai Swasta,Reguler
+40,pria,Staff,Reguler
+50,pria,Amil,Reguler
+35,pria,Amil,Reguler
+39,pria,Amil,Kurban
+40,pria,Tidak Bekerja,Reguler
+31,wanita,Amil,Reguler
+51,pria,Lainnya,Reguler
+49,pria,Wiraswasta,Reguler
+50,wanita,Pegawai Swasta,Reguler
+69,pria,Lainnya,Ramadhan
+32,wanita,Staff,Reguler
+42,pria,Tidak Bekerja,Ramadhan
+37,pria,Pegawai Swasta,Reguler
+33,pria,Konsultan,Reguler
+40,pria,Tidak Bekerja,Reguler
+38,wanita,Lainnya,Reguler
+59,pria,Tidak Bekerja,Reguler
+33,wanita,Staff,Reguler
+50,pria,Wiraswasta,Reguler
+63,wanita,Pegawai Swasta,Reguler
+48,pria,Amil,Ramadhan
+80,pria,Amil,Reguler
+62,wanita,Amil,Reguler
+22,pria,Amil,Ramadhan
+38,wanita,Lainnya,Reguler
+36,wanita,Amil,Reguler
+36,wanita,Freelancer,Reguler
+37,pria,Akuntansi,Reguler
+43,pria,Tidak Bekerja,Ramadhan
+40,wanita,Tidak Bekerja,Reguler
+31,wanita,Konsultan,Reguler
+40,wanita,Konsultan,Reguler
+40,pria,Amil,Reguler
+32,pria,Konsultan,Reguler
+32,pria,PNS,Reguler
+35,pria,Amil,Ramadhan
+44,pria,Tidak Bekerja,Ramadhan
+30,wanita,Lainnya,Ramadhan
+32,wanita,Amil,Reguler
+46,pria,Amil,Ramadhan
+38,pria,Amil,Ramadhan
+40,pria,Tidak Bekerja,Reguler
+39,pria,Pegawai Swasta,Reguler
+34,pria,Wiraswasta,Reguler
+40,pria,Tidak Bekerja,Reguler
+41,pria,Amil,Reguler
+45,wanita,PNS,Reguler
+42,pria,Lainnya,Reguler
+31,wanita,PNS,Reguler
+33,wanita,Staff,Reguler
+48,pria,Amil,Reguler
+30,pria,Kesehatan,Reguler
+36,pria,PNS,Reguler
+41,wanita,Lainnya,Reguler
+46,pria,PNS,Kurban
+33,pria,Amil,Reguler
+32,wanita,Wiraswasta,Reguler
+34,pria,Industri,Reguler
+34,pria,Lainnya,Reguler
+31,wanita,Staff,Reguler
+34,pria,Industri,Reguler
+40,pria,Tidak Bekerja,Ramadhan
+62,wanita,Amil,Reguler
+45,pria,Amil,Reguler
+36,pria,Amil,Ramadhan
+39,wanita,Akuntansi,Reguler
+31,wanita,PNS,Reguler
+36,wanita,Marketing,Ramadhan
+34,pria,Konsultan,Reguler
+51,pria,Lainnya,Kurban
+48,pria,Konsultan,Ramadhan
+33,wanita,Staff,Ramadhan
+41,pria,Staff,Reguler
+59,pria,Pegawai Swasta,Reguler
+30,wanita,PNS,Ramadhan
+28,wanita,Industri,Reguler
+31,wanita,Staff,Reguler
+32,pria,PNS,Reguler
+51,pria,Lainnya,Reguler
+31,wanita,Staff,Ramadhan
+33,pria,Konsultan,Ramadhan
+46,pria,PNS,Ramadhan
+40,pria,Tidak Bekerja,Reguler
+36,pria,Amil,Reguler
+34,pria,Industri,Reguler
+32,pria,Konsultan,Reguler
+45,pria,Amil,Reguler
+32,pria,Kesehatan,Kurban
+40,pria,Tidak Bekerja,Reguler
+40,wanita,Tidak Bekerja,Reguler
+35,pria,Amil,Reguler
+50,wanita,PNS,Ramadhan
+35,pria,Industri,Reguler
+41,pria,Amil,Kurban
+49,pria,Amil,Reguler
+31,wanita,IT,Ramadhan
+35,pria,Amil,Reguler
+37,pria,Lainnya,Ramadhan
+36,pria,Pegawai Swasta,Reguler
+46,pria,Lainnya,Ramadhan
+41,pria,Amil,Ramadhan
+38,pria,Amil,Kurban
+40,wanita,Tidak Bekerja,Reguler
+34,wanita,PNS,Kurban
+28,pria,Konsultan,Reguler
+32,pria,PNS,Reguler
+59,pria,Marketing,Reguler
+31,pria,Amil,Reguler
+35,pria,Amil,Kurban
+46,pria,Wiraswasta,Kurban
+39,pria,PNS,Reguler
+32,pria,Konsultan,Reguler
+39,pria,Industri,Reguler
+36,pria,Amil,Reguler
+31,wanita,Staff,Ramadhan
+37,pria,Amil,Kurban
+62,wanita,Amil,Ramadhan
+33,pria,Lainnya,Reguler
+66,pria,Wiraswasta,Ramadhan
+47,pria,Amil,Kurban
+29,wanita,Lainnya,Reguler
+30,pria,PNS,Kurban
+46,pria,Amil,Ramadhan
+33,pria,Freelancer,Ramadhan
+40,pria,Tidak Bekerja,Reguler
+28,wanita,Tidak Bekerja,Ramadhan
+51,pria,Lainnya,Reguler
+35,pria,Industri,Ramadhan
+42,pria,Tidak Bekerja,Reguler
+35,pria,Amil,Kurban
+51,pria,Teknisi,Reguler
+36,pria,Amil,Kurban
+51,pria,Wiraswasta,Reguler
+52,pria,Tidak Bekerja,Ramadhan
+45,pria,Amil,Reguler
+80,pria,Amil,Ramadhan
+45,wanita,Amil,Ramadhan
+31,pria,Pegawai Swasta,Reguler
+69,pria,Wiraswasta,Reguler
+37,wanita,Auditor,Reguler
+32,wanita,Wiraswasta,Reguler
+27,pria,Pegawai Swasta,Reguler
+40,pria,Amil,Ramadhan
+30,wanita,PNS,Reguler
+41,pria,Lainnya,Ramadhan
+52,pria,Tidak Bekerja,Reguler
+36,wanita,PNS,Reguler
+38,pria,Amil,Kurban
+32,pria,Lainnya,Reguler
+35,pria,Amil,Reguler
+41,wanita,IT,Reguler
+35,pria,Teknisi,Reguler
+43,pria,Tidak Bekerja,Reguler
+31,wanita,Staff,Reguler
+51,pria,Wiraswasta,Reguler
+58,pria,Lainnya,Ramadhan
+42,pria,Akuntansi,Reguler
+41,pria,Amil,Reguler
+42,pria,Tidak Bekerja,Reguler
+46,pria,PNS,Kurban
+35,pria,Lainnya,Reguler
+37,pria,Amil,Reguler
+51,pria,Lainnya,Kurban
+51,pria,Lainnya,Reguler
+45,pria,Lainnya,Ramadhan
+40,pria,Amil,Ramadhan
+32,pria,Amil,Ramadhan
+40,pria,Tidak Bekerja,Ramadhan
+34,pria,Marketing,Reguler
+47,pria,Amil,Reguler
+37,pria,Wiraswasta,Reguler
+45,wanita,Pegawai Swasta,Reguler
+42,pria,Amil,Kurban
+40,pria,Amil,Ramadhan
+40,pria,Tidak Bekerja,Reguler
+32,wanita,PNS,Reguler
+34,pria,IT,Ramadhan
+39,wanita,Amil,Reguler
+41,pria,Lainnya,Ramadhan
+38,pria,Amil,Kurban
+35,pria,Pegawai Swasta,Reguler
+42,pria,Tidak Bekerja,Reguler
+27,wanita,Amil,Reguler
+31,wanita,PNS,Reguler
+41,wanita,Wiraswasta,Kurban
+50,pria,Amil,Reguler
+40,pria,Tidak Bekerja,Reguler
+47,pria,Energi,Ramadhan
+36,wanita,Marketing,Reguler
+32,pria,Konsultan,Kurban
+40,wanita,PNS,Reguler
+37,pria,Amil,Reguler
+47,pria,Amil,Reguler
+39,pria,Pegawai Swasta,Reguler
+51,pria,Lainnya,Ramadhan
+69,pria,Lainnya,Ramadhan
+42,pria,Tidak Bekerja,Reguler
+34,pria,Industri,Reguler
+44,pria,PNS,Reguler
+48,pria,Pegawai Swasta,Ramadhan
+31,pria,Lainnya,Reguler
+46,wanita,Akuntansi,Reguler
+46,pria,PNS,Reguler
+44,pria,Amil,Reguler
+34,wanita,Staff,Reguler
+37,wanita,Kesehatan,Reguler
+32,pria,Akuntansi,Reguler
+32,pria,Konsultan,Ramadhan
+54,wanita,PNS,Ramadhan
+40,wanita,Tidak Bekerja,Kurban
+47,pria,Industri,Reguler
+38,wanita,Lainnya,Reguler
+40,pria,Tidak Bekerja,Reguler
+30,pria,Konsultan,Reguler
+32,pria,Konsultan,Reguler
+41,pria,Staff,Reguler
+31,pria,Staff,Ramadhan
+46,pria,Amil,Reguler
+40,pria,Staff,Reguler
+22,pria,Amil,Reguler
+63,wanita,Pegawai Swasta,Reguler
+33,wanita,Amil,Reguler
+39,wanita,Pegawai Swasta,Reguler
+51,pria,Lainnya,Ramadhan
+32,pria,Pegawai Swasta,Reguler
+52,pria,Tidak Bekerja,Kurban
+49,pria,Lainnya,Ramadhan
+40,wanita,TNI/POLRI,Kurban
+29,pria,Lainnya,Reguler
+34,pria,Wiraswasta,Reguler
+46,wanita,Pegawai Swasta,Ramadhan
+34,pria,Lainnya,Reguler
+23,pria,Pegawai Swasta,Reguler
+39,pria,PNS,Reguler
+48,pria,Amil,Reguler
+32,pria,Pegawai Swasta,Reguler
+38,pria,Konsultan,Reguler
+52,pria,Amil,Reguler
+38,wanita,Lainnya,Reguler
+39,pria,Akuntansi,Reguler
+41,pria,Industri,Reguler
+72,pria,PNS,Reguler
+38,wanita,Lainnya,Reguler
+28,pria,IT,Reguler
+43,pria,Industri,Ramadhan
+53,pria,PNS,Reguler
+45,pria,Amil,Reguler
+42,pria,Tidak Bekerja,Reguler
+41,pria,Amil,Reguler
+35,pria,Industri,Reguler
+52,pria,Pegawai Swasta,Reguler
+34,wanita,Amil,Reguler
+44,pria,PNS,Reguler
+32,wanita,Industri,Ramadhan
+39,pria,IT,Reguler
+36,pria,PNS,Kurban
+31,pria,Amil,Ramadhan
+31,pria,Amil,Reguler
+49,pria,Kesehatan,Ramadhan
+59,wanita,PNS,Ramadhan
+31,pria,PNS,Reguler
+40,wanita,Konsultan,Reguler
+48,pria,Konsultan,Reguler
+49,wanita,Wiraswasta,Reguler
+35,pria,Amil,Kurban
+40,wanita,Tidak Bekerja,Reguler
+40,wanita,PNS,Reguler
+44,pria,TNI/POLRI,Ramadhan
+33,pria,IT,Reguler
+41,pria,Lainnya,Reguler
+33,pria,PNS,Kurban
+32,pria,Akuntansi,Reguler
+35,pria,Lainnya,Kurban
+37,wanita,Auditor,Reguler
+41,pria,Amil,Reguler
+50,wanita,Pegawai Swasta,Kurban
+69,pria,Lainnya,Ramadhan
+46,pria,Wiraswasta,Reguler
+39,pria,Staff,Reguler
+40,pria,Tidak Bekerja,Reguler
+35,pria,Amil,Ramadhan
+40,wanita,Tidak Bekerja,Reguler
+62,wanita,Amil,Ramadhan
+30,pria,Amil,Reguler
+51,pria,Wiraswasta,Reguler
+40,pria,Amil,Ramadhan
+22,pria,Amil,Reguler
+40,pria,PNS,Reguler
+53,pria,IT,Reguler
+34,pria,Staff,Reguler
+33,pria,Lainnya,Kurban
+40,pria,Tidak Bekerja,Reguler
+30,pria,Amil,Reguler
+44,pria,Kesehatan,Reguler
+69,pria,Lainnya,Ramadhan
+51,pria,Lainnya,Kurban
+37,wanita,Kesehatan,Reguler
+31,pria,PNS,Reguler
+34,pria,Staff,Reguler
+28,pria,Industri,Reguler
+28,wanita,Industri,Reguler
+45,pria,Amil,Reguler
+37,wanita,Amil,Kurban
+52,pria,Lainnya,Reguler
+34,pria,Amil,Reguler
+32,wanita,PNS,Kurban
+38,pria,Amil,Reguler
+30,pria,Kesehatan,Reguler
+37,wanita,Amil,Reguler
+33,pria,Lainnya,Reguler
+39,pria,Industri,Reguler
+38,pria,PNS,Reguler
+27,wanita,Amil,Reguler
+52,pria,Lainnya,Ramadhan
+35,pria,Freelancer,Kurban
+38,pria,Amil,Ramadhan
+31,pria,PNS,Ramadhan
+52,pria,Tidak Bekerja,Reguler
+39,pria,Akuntansi,Reguler
+34,pria,Wiraswasta,Reguler
+38,pria,PNS,Reguler
+32,pria,Lainnya,Reguler
+51,pria,Wiraswasta,Reguler
+42,pria,Wiraswasta,Reguler
+32,pria,Pegawai Swasta,Kurban
+46,pria,Konsultan,Ramadhan
+40,pria,Tidak Bekerja,Reguler
+38,pria,Lainnya,Ramadhan
+46,wanita,Akuntansi,Kurban
+40,wanita,Tidak Bekerja,Reguler
+42,pria,Tidak Bekerja,Reguler
+30,wanita,PNS,Reguler
+41,pria,Industri,Ramadhan
+32,pria,Konsultan,Reguler
+50,pria,TNI/POLRI,Ramadhan
+42,pria,Tidak Bekerja,Kurban
+39,wanita,Amil,Kurban
+39,pria,Staff,Ramadhan
+41,pria,Amil,Reguler
+31,wanita,Staff,Reguler
+44,pria,Kesehatan,Reguler
+69,pria,Wiraswasta,Reguler
+39,pria,Amil,Kurban
+52,pria,Lainnya,Reguler
+41,wanita,Amil,Reguler
+36,wanita,PNS,Reguler
+31,pria,Amil,Reguler
+34,pria,Industri,Kurban
+38,wanita,Lainnya,Reguler
+39,wanita,Akuntansi,Reguler
+51,pria,Lainnya,Reguler
+39,pria,Pegawai Swasta,Reguler
+33,pria,Wiraswasta,Reguler
+36,pria,Lainnya,Ramadhan
+46,pria,Konsultan,Reguler
+48,pria,Amil,Reguler
+49,pria,Lainnya,Reguler
+52,wanita,Tidak Bekerja,Ramadhan
+47,pria,Amil,Kurban
+37,wanita,Kesehatan,Reguler
+50,wanita,PNS,Kurban
+40,pria,Amil,Reguler
+38,wanita,Lainnya,Reguler
+40,wanita,Konsultan,Reguler
+40,pria,Tidak Bekerja,Reguler
+38,wanita,Lainnya,Reguler
+50,pria,Lainnya,Kurban
+32,pria,Kesehatan,Reguler
+31,pria,Amil,Reguler
+41,wanita,Wiraswasta,Ramadhan
+32,pria,Lainnya,Reguler
+46,pria,Akuntansi,Ramadhan
+27,pria,Pegawai Swasta,Reguler
+38,pria,Amil,Reguler
+40,wanita,Tidak Bekerja,Ramadhan
+40,pria,PNS,Reguler
+38,wanita,Lainnya,Reguler
+52,pria,Amil,Reguler
+47,pria,IT,Reguler
+29,wanita,Lainnya,Ramadhan
+40,pria,Tidak Bekerja,Reguler
+36,pria,Amil,Ramadhan
+41,pria,Amil,Reguler
+31,wanita,Staff,Reguler
+40,pria,Staff,Reguler
+35,pria,Amil,Reguler
+31,wanita,PNS,Reguler
+30,wanita,PNS,Ramadhan
+40,pria,PNS,Reguler
+50,pria,PNS,Kurban
+43,pria,Pegawai Swasta,Reguler
+51,wanita,Amil,Ramadhan
+47,pria,Amil,Kurban
+34,pria,Industri,Kurban
+40,wanita,Tidak Bekerja,Reguler
+33,wanita,Amil,Kurban
+33,pria,Konsultan,Kurban
+63,pria,Amil,Ramadhan
+51,pria,Teknisi,Reguler
+48,pria,Amil,Reguler
+36,pria,Wiraswasta,Ramadhan
+39,pria,Amil,Reguler
+42,pria,PNS,Kurban
+32,pria,Lainnya,Reguler
+31,pria,Pegawai Swasta,Reguler
+48,pria,Amil,Ramadhan
+31,pria,PNS,Reguler
+42,pria,Tidak Bekerja,Kurban
+39,pria,PNS,Reguler
+32,pria,Konsultan,Reguler
+48,pria,Amil,Ramadhan
+39,pria,PNS,Reguler
+51,pria,Amil,Reguler
+30,pria,PNS,Reguler
+38,wanita,Lainnya,Reguler
+28,pria,IT,Reguler
+29,wanita,Lainnya,Ramadhan
+31,wanita,Amil,Reguler
+34,pria,Industri,Reguler
+69,pria,Amil,Kurban
+42,pria,Amil,Ramadhan
+44,wanita,IT,Reguler
+29,wanita,Lainnya,Reguler
+35,pria,Energi,Reguler
+52,pria,PNS,Reguler
+54,pria,PNS,Kurban
+41,wanita,Lainnya,Kurban
+49,pria,PNS,Reguler
+37,wanita,Amil,Reguler
+40,pria,PNS,Reguler
+41,wanita,Lainnya,Reguler
+44,wanita,Pegawai Swasta,Reguler
+35,pria,Pegawai Swasta,Reguler
+30,pria,Kesehatan,Reguler
+45,wanita,Pegawai Swasta,Reguler
+39,pria,Akuntansi,Reguler
+38,pria,Amil,Reguler
+52,pria,Tidak Bekerja,Reguler
+22,pria,Amil,Ramadhan
+34,pria,Staff,Ramadhan
+41,wanita,Lainnya,Reguler
+36,pria,Amil,Reguler
+35,pria,Amil,Reguler
+40,pria,Amil,Reguler
+55,wanita,Wiraswasta,Ramadhan
+41,pria,Wiraswasta,Reguler
+36,pria,Amil,Kurban
+47,pria,Amil,Kurban
+49,pria,Wiraswasta,Reguler
+39,pria,PNS,Reguler
+22,pria,Amil,Reguler
+74,wanita,Tidak Bekerja,Ramadhan
+54,pria,Amil,Reguler
+31,wanita,Konsultan,Reguler
+39,pria,IT,Reguler
+27,pria,Pegawai Swasta,Reguler
+32,pria,Konsultan,Reguler
+31,pria,Konsultan,Kurban
+34,pria,Wiraswasta,Kurban
+40,wanita,Konsultan,Reguler
+40,wanita,Tidak Bekerja,Reguler
+32,pria,IT,Reguler
+37,wanita,Kesehatan,Reguler
+46,pria,PNS,Reguler
+28,wanita,Lainnya,Reguler
+38,pria,PNS,Reguler
+32,wanita,Wiraswasta,Reguler
+31,wanita,Staff,Ramadhan
+30,pria,Amil,Kurban
+37,wanita,PNS,Reguler
+31,wanita,Staff,Reguler
+34,pria,Wiraswasta,Reguler
+34,pria,Industri,Reguler
+39,pria,Industri,Reguler
+45,pria,Amil,Reguler
+36,pria,Amil,Reguler
+33,pria,Amil,Reguler
+33,wanita,PNS,Reguler
+48,pria,Amil,Reguler
+30,pria,PNS,Reguler
+40,pria,Teknisi,Reguler
+31,pria,Energi,Ramadhan
+38,pria,Wiraswasta,Ramadhan
+33,wanita,Amil,Reguler
+38,pria,PNS,Kurban
+53,pria,Wiraswasta,Ramadhan
+27,pria,Pegawai Swasta,Reguler
+34,pria,Amil,Reguler
+49,pria,Wiraswasta,Ramadhan
+32,pria,Kesehatan,Reguler
+34,pria,Wiraswasta,Reguler
+45,pria,Amil,Ramadhan
+47,pria,Amil,Kurban
+35,pria,Industri,Reguler
+35,pria,Industri,Reguler
+40,pria,Tidak Bekerja,Reguler
+45,pria,Wiraswasta,Ramadhan
+30,wanita,PNS,Reguler
+30,wanita,Konsultan,Reguler
+57,pria,Lainnya,Reguler
+32,pria,PNS,Kurban
+45,pria,Amil,Kurban
+28,wanita,Industri,Kurban
+40,wanita,Tidak Bekerja,Ramadhan
+39,pria,Lainnya,Reguler
+37,wanita,Kesehatan,Reguler
+33,pria,IT,Ramadhan
+30,wanita,PNS,Reguler
+38,pria,Wiraswasta,Ramadhan
+45,pria,Amil,Ramadhan
+39,wanita,Industri,Reguler
+69,pria,Lainnya,Ramadhan
+34,pria,TNI/POLRI,Reguler
+34,pria,Marketing,Reguler
+34,pria,Amil,Reguler
+35,pria,Amil,Kurban
+36,pria,Lainnya,Reguler
+32,pria,Amil,Reguler
+28,pria,Amil,Kurban
+36,pria,Amil,Reguler
+36,pria,Tidak Bekerja,Reguler
+49,pria,PNS,Reguler
+47,pria,Pegawai Swasta,Reguler
+54,pria,Amil,Reguler
+39,wanita,Pegawai Swasta,Ramadhan
+42,pria,Akuntansi,Reguler
+39,pria,Akuntansi,Reguler
+41,pria,Lainnya,Reguler
+39,wanita,Pegawai Swasta,Reguler
+55,pria,Tidak Bekerja,Ramadhan
+57,pria,Tidak Bekerja,Reguler
+38,wanita,Lainnya,Reguler
+35,pria,Industri,Ramadhan
+42,pria,PNS,Reguler
+46,pria,PNS,Ramadhan
+56,pria,Amil,Ramadhan
+38,pria,Tidak Bekerja,Kurban
+38,pria,Wiraswasta,Ramadhan
+51,pria,Lainnya,Reguler
+34,pria,Wiraswasta,Reguler
+43,pria,Tidak Bekerja,Ramadhan
+36,pria,PNS,Reguler
+40,wanita,Konsultan,Kurban
+31,pria,Pegawai Swasta,Ramadhan
+76,pria,Lainnya,Kurban
+38,pria,PNS,Reguler
+40,pria,Tidak Bekerja,Reguler
+41,pria,Amil,Reguler
+34,pria,Wiraswasta,Kurban
+56,pria,PNS,Reguler
+35,pria,Amil,Ramadhan
+32,pria,Amil,Kurban
+47,pria,Energi,Reguler
+36,pria,Amil,Reguler
+35,pria,Lainnya,Reguler
+42,pria,Tidak Bekerja,Reguler
+54,pria,Amil,Reguler
+36,pria,Pegawai Swasta,Reguler
+37,pria,PNS,Reguler
+46,pria,PNS,Kurban
+42,pria,Tidak Bekerja,Reguler
+47,pria,Energi,Reguler
+38,pria,Wiraswasta,Ramadhan
+34,pria,Lainnya,Reguler
+39,wanita,Amil,Kurban
+31,pria,Amil,Kurban
+31,wanita,Amil,Reguler
+57,pria,Lainnya,Reguler
+42,pria,Tidak Bekerja,Ramadhan
+37,pria,PNS,Kurban
+31,wanita,Staff,Ramadhan
+69,pria,Amil,Kurban
+39,pria,Amil,Kurban
+35,pria,Energi,Ramadhan
+38,wanita,Lainnya,Reguler
+53,pria,Tidak Bekerja,Reguler
+49,wanita,Wiraswasta,Reguler
+44,wanita,IT,Ramadhan
+60,wanita,PNS,Reguler
+48,pria,Amil,Reguler
+36,wanita,Wiraswasta,Reguler
+62,wanita,Amil,Reguler
+31,wanita,Amil,Reguler
+27,pria,Pegawai Swasta,Kurban
+41,pria,Amil,Reguler
+36,pria,Amil,Reguler
+31,wanita,Staff,Reguler
+48,pria,Amil,Ramadhan
+32,pria,PNS,Reguler
+33,pria,PNS,Kurban
+32,pria,Amil,Reguler
+41,pria,Industri,Reguler
+42,pria,Akuntansi,Reguler
+34,pria,Industri,Ramadhan
+52,pria,Pegawai Swasta,Reguler
+59,wanita,Tidak Bekerja,Ramadhan
+31,pria,Pegawai Swasta,Reguler
+34,pria,Konsultan,Reguler
+31,wanita,Konsultan,Reguler
+44,wanita,Marketing,Reguler
+49,wanita,Wiraswasta,Kurban
+34,pria,Staff,Reguler
+40,pria,Tidak Bekerja,Reguler
+32,pria,Lainnya,Ramadhan
+32,wanita,Wiraswasta,Ramadhan
+40,pria,PNS,Kurban
+31,wanita,Amil,Ramadhan
+25,pria,Staff,Reguler
+38,wanita,Lainnya,Reguler
+39,pria,Industri,Kurban
+42,pria,Wiraswasta,Reguler
+33,wanita,Amil,Reguler
+74,wanita,Tidak Bekerja,Ramadhan
+31,wanita,IT,Reguler
+30,pria,Konsultan,Reguler
+39,pria,Amil,Reguler
+40,wanita,Tidak Bekerja,Kurban
+39,wanita,Pegawai Swasta,Reguler
+31,wanita,Staff,Reguler
+31,wanita,Pegawai Swasta,Ramadhan
+29,wanita,Akuntansi,Reguler
+37,wanita,Pegawai Swasta,Ramadhan
+40,pria,Tidak Bekerja,Reguler
+36,pria,Wiraswasta,Ramadhan
+40,pria,Tidak Bekerja,Ramadhan
+38,pria,PNS,Reguler
+35,pria,Industri,Reguler
+36,pria,PNS,Ramadhan
+42,pria,Wiraswasta,Ramadhan
+45,pria,Amil,Reguler
+42,pria,Tidak Bekerja,Ramadhan
+49,wanita,Wiraswasta,Reguler
+41,pria,Industri,Kurban
+39,wanita,Pegawai Swasta,Ramadhan
+59,pria,Pegawai Swasta,Reguler
+40,pria,PNS,Reguler
+31,wanita,IT,Reguler
+37,pria,Amil,Reguler
+54,pria,Amil,Ramadhan
+65,pria,Wiraswasta,Reguler
+45,pria,Amil,Reguler
+52,pria,Pegawai Swasta,Reguler
+37,pria,Teknisi,Reguler
+37,wanita,Amil,Ramadhan
+39,wanita,Amil,Ramadhan
+32,pria,Pegawai Swasta,Reguler
+32,wanita,Auditor,Ramadhan
+26,pria,PNS,Ramadhan
+62,wanita,Amil,Kurban
+52,pria,Tidak Bekerja,Reguler
+31,pria,Amil,Reguler
+29,wanita,Lainnya,Ramadhan
+42,pria,Tidak Bekerja,Kurban
+42,pria,Tidak Bekerja,Ramadhan
+38,pria,Wiraswasta,Reguler
+38,pria,IT,Reguler
+32,pria,Akuntansi,Reguler
+32,pria,Lainnya,Reguler
+37,wanita,Kesehatan,Reguler
+31,pria,Konsultan,Reguler
+38,pria,Tidak Bekerja,Ramadhan
+34,pria,Industri,Ramadhan
+32,wanita,PNS,Ramadhan
+40,wanita,Tidak Bekerja,Reguler
+39,pria,Industri,Reguler
+42,wanita,PNS,Ramadhan
+51,pria,Pegawai Swasta,Reguler
+38,pria,Amil,Ramadhan
+35,pria,Amil,Ramadhan
+47,pria,Amil,Reguler
+60,pria,Tidak Bekerja,Ramadhan
+60,wanita,PNS,Reguler
+42,pria,Tidak Bekerja,Ramadhan
+40,pria,Staff,Reguler
+38,wanita,Lainnya,Ramadhan
+46,pria,PNS,Ramadhan
+31,pria,Amil,Ramadhan
+38,pria,Amil,Ramadhan
+57,pria,Tidak Bekerja,Kurban
+51,pria,Lainnya,Reguler
+41,pria,PNS,Reguler
+40,pria,Tidak Bekerja,Kurban
+51,pria,Amil,Kurban
+69,pria,Lainnya,Ramadhan
+28,pria,Konsultan,Reguler
+30,wanita,PNS,Ramadhan
+45,pria,Amil,Kurban
+36,pria,Tidak Bekerja,Reguler
+27,wanita,Lainnya,Reguler
+80,pria,Amil,Reguler
+39,pria,Amil,Reguler
+35,pria,Industri,Reguler
+42,pria,PNS,Ramadhan
+34,pria,Marketing,Reguler
+31,wanita,Staff,Reguler
+47,pria,Amil,Reguler
+56,pria,Industri,Ramadhan
+31,pria,Industri,Reguler
+31,wanita,Amil,Ramadhan
+47,pria,Industri,Reguler
+52,pria,Tidak Bekerja,Ramadhan
+51,pria,Lainnya,Reguler
+31,pria,Amil,Ramadhan
+41,pria,Staff,Reguler
+35,pria,Energi,Ramadhan
+40,pria,PNS,Reguler
+30,pria,PNS,Reguler
+56,wanita,Tidak Bekerja,Reguler
+27,wanita,Lainnya,Reguler
+31,pria,PNS,Reguler
+53,pria,PNS,Reguler
+32,pria,IT,Reguler
+46,pria,Akuntansi,Ramadhan
+40,pria,PNS,Reguler
+46,pria,Transportasi,Kurban
+31,pria,Lainnya,Ramadhan
+45,wanita,Wiraswasta,Reguler
+34,pria,Konsultan,Reguler
+49,pria,Amil,Ramadhan
+34,pria,Staff,Reguler
+40,pria,Tidak Bekerja,Kurban
+32,wanita,Amil,Reguler
+39,wanita,Amil,Ramadhan
+35,pria,Pegawai Swasta,Kurban
+34,pria,PNS,Reguler
+44,pria,Industri,Reguler
+36,wanita,Freelancer,Reguler
+40,pria,PNS,Reguler
+34,pria,Wiraswasta,Kurban
+42,pria,Tidak Bekerja,Kurban
+40,pria,Industri,Ramadhan
+35,pria,Amil,Reguler
+30,wanita,Lainnya,Reguler
+45,pria,Amil,Reguler
+42,pria,Akuntansi,Ramadhan
+38,pria,Amil,Reguler
+28,wanita,Industri,Reguler
+41,pria,Industri,Reguler
+50,wanita,PNS,Reguler
+44,pria,PNS,Ramadhan
+53,pria,IT,Reguler
+50,pria,Wiraswasta,Reguler
+36,pria,PNS,Kurban
+30,pria,Kesehatan,Reguler
+57,pria,Tidak Bekerja,Reguler
+40,wanita,Tidak Bekerja,Reguler
+52,pria,Pegawai Swasta,Reguler
+57,pria,Tidak Bekerja,Reguler
+31,wanita,Amil,Reguler
+39,pria,Wiraswasta,Reguler
+29,pria,Amil,Reguler
+51,pria,Lainnya,Reguler
+36,pria,Amil,Reguler
+32,pria,Lainnya,Reguler
+50,pria,Amil,Kurban
+49,pria,Lainnya,Ramadhan
+39,pria,IT,Reguler
+30,wanita,PNS,Reguler
+35,pria,Konsultan,Reguler
+59,pria,Marketing,Ramadhan
+35,wanita,Pegawai Swasta,Reguler
+51,pria,Lainnya,Reguler
+39,pria,Wiraswasta,Reguler
+40,pria,Tidak Bekerja,Reguler
+34,pria,Pegawai Swasta,Reguler
+31,pria,Amil,Reguler
+39,pria,Wiraswasta,Ramadhan
+36,wanita,Pegawai Swasta,Ramadhan
+31,pria,Amil,Reguler
+39,pria,PNS,Reguler
+38,pria,PNS,Reguler
+33,wanita,Akuntansi,Reguler
+22,pria,Amil,Kurban
+35,pria,Amil,Kurban
+40,pria,Amil,Reguler
+33,pria,PNS,Ramadhan
+27,pria,Pegawai Swasta,Ramadhan
+47,pria,Amil,Ramadhan
+49,pria,Wiraswasta,Reguler
+35,wanita,Pegawai Swasta,Reguler
+45,pria,Amil,Reguler
+80,pria,Amil,Reguler
+53,pria,IT,Reguler
+41,pria,Lainnya,Reguler
+51,pria,Teknisi,Reguler
+41,pria,Staff,Reguler
+40,wanita,PNS,Reguler
+69,pria,Lainnya,Ramadhan
+29,wanita,Lainnya,Reguler
+40,pria,Tidak Bekerja,Reguler
+31,pria,Lainnya,Reguler
+29,wanita,Lainnya,Reguler
+33,wanita,Wiraswasta,Ramadhan
+29,wanita,Akuntansi,Reguler
+40,pria,PNS,Reguler
+57,pria,Wiraswasta,Ramadhan
+40,pria,PNS,Reguler
+41,pria,Industri,Reguler
+33,pria,Wiraswasta,Reguler
+35,pria,Industri,Kurban
+41,pria,Amil,Ramadhan
+32,pria,Akuntansi,Ramadhan
+37,wanita,Kesehatan,Kurban
+32,pria,Akuntansi,Reguler
+36,pria,Lainnya,Ramadhan
+38,wanita,Lainnya,Reguler
+31,wanita,Amil,Kurban
+40,pria,PNS,Kurban
+31,wanita,Staff,Reguler
+34,pria,Konsultan,Kurban
+41,pria,Kesehatan,Reguler
+31,pria,Amil,Ramadhan
+34,pria,Industri,Reguler
+36,pria,Lainnya,Reguler
+37,wanita,PNS,Reguler
+35,pria,Amil,Kurban
+41,pria,Amil,Kurban
+69,pria,Wiraswasta,Ramadhan
+44,pria,Kesehatan,Reguler
+39,pria,Lainnya,Reguler
+46,pria,Konsultan,Reguler
+31,pria,PNS,Kurban
+31,wanita,Staff,Reguler
+34,pria,PNS,Reguler
+42,wanita,Freelancer,Reguler
+37,wanita,Auditor,Reguler
+40,pria,Tidak Bekerja,Reguler
+49,pria,Amil,Reguler
+31,pria,Konsultan,Reguler
+41,pria,Amil,Reguler
+38,wanita,Lainnya,Reguler
+41,wanita,Lainnya,Reguler
+36,pria,Amil,Reguler
+44,wanita,Pegawai Swasta,Reguler
+31,wanita,Amil,Reguler
+47,pria,Industri,Kurban
+41,pria,Amil,Reguler
+44,wanita,Pegawai Swasta,Kurban
+39,wanita,Amil,Reguler
+34,wanita,Amil,Kurban
+29,wanita,Lainnya,Ramadhan
+50,pria,PNS,Ramadhan
+32,wanita,Wiraswasta,Reguler
+39,pria,Amil,Ramadhan
+53,pria,Tidak Bekerja,Ramadhan
+38,wanita,Lainnya,Reguler
+50,pria,Wiraswasta,Reguler
+36,pria,Amil,Reguler
+37,pria,Amil,Reguler
+59,wanita,PNS,Ramadhan
+38,wanita,Lainnya,Ramadhan
+52,pria,Amil,Reguler
+34,pria,Wiraswasta,Reguler
+33,pria,Energi,Reguler
+59,pria,Pegawai Swasta,Reguler
+41,pria,Kesehatan,Ramadhan
+38,pria,Pegawai Swasta,Reguler
+31,pria,Industri,Reguler
+37,pria,Amil,Reguler
+42,pria,Tidak Bekerja,Kurban
+42,pria,Tidak Bekerja,Ramadhan
+34,pria,Konsultan,Reguler
+41,pria,Staff,Reguler
+46,pria,PNS,Ramadhan
+69,pria,Amil,Reguler
+42,pria,Tidak Bekerja,Reguler
+31,pria,Konsultan,Reguler
+42,wanita,Tidak Bekerja,Ramadhan
+56,wanita,Tidak Bekerja,Reguler
+30,wanita,Pegawai Swasta,Reguler
+46,pria,PNS,Reguler
+41,pria,Wiraswasta,Kurban
+36,pria,Amil,Reguler
+40,pria,Tidak Bekerja,Kurban
+31,pria,Staff,Reguler
+80,pria,Amil,Reguler
+59,pria,Marketing,Reguler
+69,pria,Amil,Ramadhan
+40,wanita,Tidak Bekerja,Reguler
+30,wanita,PNS,Ramadhan
+43,pria,Pegawai Swasta,Reguler
+33,pria,IT,Ramadhan
+36,wanita,Pegawai Swasta,Reguler
+47,pria,Industri,Reguler
+33,wanita,Lainnya,Reguler
+46,pria,Konsultan,Kurban
+31,pria,Staff,Reguler
+31,pria,Staff,Kurban
+52,pria,Amil,Reguler
+40,pria,Tidak Bekerja,Reguler
+35,pria,Amil,Reguler
+41,pria,Amil,Reguler
+41,wanita,IT,Reguler
+42,pria,Tidak Bekerja,Reguler
+39,pria,IT,Reguler
+32,pria,Lainnya,Reguler
+39,pria,Amil,Reguler
+56,pria,Amil,Kurban
+39,pria,IT,Reguler
+33,pria,Pegawai Swasta,Reguler
+47,pria,Industri,Reguler
+50,pria,Wiraswasta,Reguler
+54,pria,Wiraswasta,Ramadhan
+37,wanita,Kesehatan,Reguler
+28,wanita,Pegawai Swasta,Reguler
+37,pria,Amil,Reguler
+69,pria,Amil,Reguler
+38,wanita,Lainnya,Reguler
+31,pria,Pegawai Swasta,Ramadhan
+41,pria,Amil,Ramadhan
+45,pria,Wiraswasta,Reguler
+40,wanita,Konsultan,Reguler
+42,pria,Lainnya,Ramadhan
+29,pria,Amil,Reguler
+46,pria,Akuntansi,Kurban
+69,pria,Lainnya,Ramadhan
+27,wanita,Amil,Reguler
+35,pria,Pegawai Swasta,Reguler
+40,wanita,Tidak Bekerja,Reguler
+36,pria,Wiraswasta,Ramadhan
+41,pria,Amil,Ramadhan
+35,pria,Lainnya,Reguler
+31,pria,Amil,Kurban
+53,pria,IT,Reguler
+33,pria,Konsultan,Reguler
+38,pria,PNS,Reguler
+39,pria,Akuntansi,Reguler
+38,wanita,Lainnya,Ramadhan
+35,pria,Industri,Reguler
+51,pria,Teknisi,Reguler
+39,pria,Industri,Ramadhan
+32,wanita,Staff,Reguler
+49,pria,Energi,Ramadhan
+32,pria,Akuntansi,Reguler
+28,pria,Pegawai Swasta,Reguler
+37,pria,PNS,Ramadhan
+36,wanita,Marketing,Kurban
+30,wanita,Lainnya,Reguler
+54,pria,Tidak Bekerja,Reguler
+31,pria,Lainnya,Ramadhan
+42,pria,Tidak Bekerja,Kurban
+41,pria,Amil,Kurban
+46,pria,Wiraswasta,Kurban
+42,pria,PNS,Reguler
+40,pria,Tidak Bekerja,Reguler
+35,pria,Pegawai Swasta,Reguler
+32,pria,Konsultan,Reguler
+51,pria,Lainnya,Reguler
+39,pria,PNS,Reguler
+41,pria,Amil,Reguler
+42,pria,PNS,Reguler
+31,wanita,Amil,Ramadhan
+31,pria,Industri,Reguler
+48,wanita,PNS,Reguler
+35,pria,Amil,Ramadhan
+59,pria,Marketing,Ramadhan
+51,pria,Amil,Reguler
+38,pria,Amil,Reguler
+38,pria,Pegawai Swasta,Ramadhan
+47,pria,Amil,Ramadhan
+35,pria,Freelancer,Kurban
+34,pria,Amil,Reguler
+44,wanita,IT,Reguler
+28,pria,Amil,Reguler
+34,pria,Amil,Kurban
+33,pria,PNS,Reguler
+40,pria,Tidak Bekerja,Reguler
+45,pria,Amil,Ramadhan
+39,pria,Amil,Reguler
+40,wanita,Tidak Bekerja,Reguler
+28,wanita,Industri,Reguler
+35,pria,Amil,Reguler
+47,pria,Amil,Reguler
+28,pria,Staff,Ramadhan
+44,pria,Industri,Reguler
+35,pria,Amil,Ramadhan
+56,pria,Amil,Ramadhan
+32,wanita,PNS,Ramadhan
+54,pria,PNS,Reguler
+40,pria,Tidak Bekerja,Reguler
+29,pria,Amil,Ramadhan
+55,pria,Lainnya,Reguler
+30,pria,Kesehatan,Reguler
+45,pria,Amil,Reguler
+35,wanita,Pegawai Swasta,Reguler
+40,pria,PNS,Kurban
+42,pria,Tidak Bekerja,Kurban
+29,wanita,Lainnya,Reguler
+33,pria,Freelancer,Ramadhan
+22,pria,Amil,Reguler
+33,pria,Konsultan,Reguler
+41,pria,Transportasi,Reguler
+31,pria,Amil,Ramadhan
+30,pria,PNS,Reguler
+38,pria,Pegawai Swasta,Reguler
+72,pria,PNS,Reguler
+30,wanita,Staff,Ramadhan
+39,pria,IT,Reguler
+46,wanita,Akuntansi,Reguler
+39,wanita,Pegawai Swasta,Reguler
+29,pria,Lainnya,Ramadhan
+42,pria,Tidak Bekerja,Ramadhan
+45,pria,Amil,Ramadhan
+26,pria,Lainnya,Reguler
+59,pria,PNS,Reguler
+40,wanita,Konsultan,Reguler
+40,pria,Wiraswasta,Ramadhan
+37,pria,Amil,Kurban
+51,pria,Amil,Reguler
+35,pria,Pegawai Swasta,Reguler
+49,pria,Wiraswasta,Reguler
+31,pria,Lainnya,Reguler
+31,wanita,Amil,Reguler
+38,pria,PNS,Reguler
+35,pria,Teknisi,Reguler
+30,wanita,Pegawai Swasta,Kurban
+34,pria,Pegawai Swasta,Reguler
+40,pria,PNS,Kurban
+33,pria,Energi,Reguler
+41,pria,Wiraswasta,Ramadhan
+32,pria,Konsultan,Reguler
+27,wanita,Lainnya,Reguler
+34,pria,Industri,Reguler
+45,pria,Amil,Ramadhan
+39,pria,Wiraswasta,Reguler
+49,pria,Amil,Reguler
+40,pria,Tidak Bekerja,Ramadhan
+55,pria,Lainnya,Reguler
+30,pria,Amil,Reguler
+31,pria,Amil,Reguler
+40,pria,Tidak Bekerja,Ramadhan
+32,wanita,Wiraswasta,Reguler
+32,pria,Amil,Kurban
+31,wanita,IT,Ramadhan
+29,pria,Amil,Reguler
+48,pria,Amil,Reguler
+52,pria,Tidak Bekerja,Reguler
+40,wanita,Tidak Bekerja,Reguler
+35,pria,Amil,Reguler
+36,pria,Amil,Ramadhan
+30,pria,Konsultan,Reguler
+38,pria,Amil,Reguler
+34,pria,Wiraswasta,Reguler
+69,pria,Amil,Reguler
+28,wanita,Industri,Reguler
+27,wanita,Lainnya,Reguler
+34,pria,Wiraswasta,Ramadhan
+38,wanita,Lainnya,Reguler
+39,pria,Amil,Kurban
+40,pria,PNS,Ramadhan
+39,pria,Energi,Ramadhan
+48,pria,Tidak Bekerja,Reguler
+22,pria,Amil,Reguler
+30,wanita,Konsultan,Ramadhan
+41,pria,Staff,Kurban
+34,wanita,Amil,Reguler
+37,pria,Amil,Reguler
+39,pria,PNS,Reguler
+41,pria,Staff,Ramadhan
+34,pria,Wiraswasta,Reguler
+28,pria,Amil,Kurban
+42,pria,Tidak Bekerja,Ramadhan
+53,pria,PNS,Ramadhan
+30,wanita,PNS,Ramadhan
+29,wanita,Lainnya,Reguler
+37,wanita,Kesehatan,Reguler
+36,pria,Amil,Ramadhan
+33,pria,Amil,Reguler
+56,pria,Amil,Reguler
+28,pria,Amil,Kurban
+32,pria,Amil,Reguler
+36,pria,Wiraswasta,Reguler
+40,pria,Tidak Bekerja,Reguler
+33,pria,Wiraswasta,Ramadhan
+40,pria,Staff,Reguler
+37,pria,Teknisi,Reguler
+44,pria,Wiraswasta,Reguler
+40,pria,Tidak Bekerja,Reguler
+34,pria,Energi,Ramadhan
+35,pria,PNS,Reguler
+36,wanita,Amil,Reguler
+34,pria,Amil,Reguler
+39,pria,Pegawai Swasta,Ramadhan
+36,wanita,Wiraswasta,Reguler
+31,pria,Konsultan,Reguler
+34,pria,Wiraswasta,Reguler
+31,wanita,PNS,Reguler
+51,pria,Lainnya,Reguler
+38,pria,Amil,Ramadhan
+38,pria,PNS,Ramadhan
+34,pria,Staff,Reguler
+33,pria,PNS,Reguler
+50,wanita,Pegawai Swasta,Ramadhan
+47,pria,Amil,Reguler
+37,pria,Pegawai Swasta,Ramadhan
+30,pria,Amil,Reguler
+34,pria,Wiraswasta,Reguler
+39,pria,Industri,Ramadhan
+41,pria,Amil,Reguler
+62,wanita,Amil,Ramadhan
+48,pria,Amil,Reguler
+40,pria,PNS,Reguler
+56,pria,Amil,Reguler
+30,pria,Amil,Reguler
+32,wanita,Wiraswasta,Reguler
+49,pria,Tidak Bekerja,Ramadhan
+38,wanita,Lainnya,Ramadhan
+37,pria,PNS,Reguler
+40,pria,Tidak Bekerja,Reguler
+29,pria,Amil,Reguler
+56,pria,Amil,Reguler
+40,pria,Tidak Bekerja,Reguler
+34,pria,Konsultan,Ramadhan
+46,pria,PNS,Ramadhan
+57,pria,Tidak Bekerja,Kurban
+55,pria,Lainnya,Reguler
+27,wanita,Lainnya,Reguler
+29,wanita,Akuntansi,Reguler
+35,pria,Amil,Ramadhan
+35,pria,Amil,Reguler
+35,pria,Amil,Ramadhan
+56,pria,Amil,Reguler
+31,pria,Amil,Ramadhan
+40,wanita,Konsultan,Reguler
+28,pria,Amil,Kurban
+34,pria,Konsultan,Kurban
+40,pria,Amil,Reguler
+32,pria,Lainnya,Reguler
+65,pria,Wiraswasta,Kurban
+48,pria,Amil,Reguler
+33,wanita,Staff,Reguler
+48,pria,PNS,Reguler
+33,wanita,Lainnya,Ramadhan
+35,pria,Konsultan,Reguler
+34,pria,Lainnya,Reguler
+29,wanita,Lainnya,Reguler
+51,pria,Lainnya,Reguler
+36,pria,Tidak Bekerja,Ramadhan
+46,pria,Wiraswasta,Ramadhan
+51,pria,PNS,Reguler
+38,wanita,Lainnya,Reguler
+40,pria,Staff,Ramadhan
+42,pria,Wiraswasta,Reguler
+34,pria,Konsultan,Ramadhan
+31,pria,PNS,Reguler
+54,pria,Amil,Kurban
+54,pria,Wiraswasta,Ramadhan
+34,pria,Wiraswasta,Reguler
+50,wanita,PNS,Reguler
+34,pria,PNS,Ramadhan
+40,pria,Tidak Bekerja,Reguler
+80,pria,Amil,Ramadhan
+40,pria,Staff,Reguler
+34,pria,Industri,Reguler
+31,pria,Lainnya,Reguler
+34,pria,Lainnya,Reguler
+33,pria,Wiraswasta,Reguler
+43,pria,Tidak Bekerja,Reguler
+44,pria,Kesehatan,Ramadhan
+32,wanita,Lainnya,Reguler
+69,pria,Lainnya,Ramadhan
+44,wanita,Pegawai Swasta,Reguler
+40,wanita,TNI/POLRI,Reguler
+38,pria,Amil,Reguler
+31,wanita,IT,Ramadhan
+45,wanita,Amil,Ramadhan
+34,pria,Konsultan,Kurban
+60,wanita,PNS,Ramadhan
+34,pria,Industri,Reguler
+51,pria,Lainnya,Reguler
+37,pria,Amil,Reguler
+46,wanita,Akuntansi,Reguler
+40,wanita,Tidak Bekerja,Reguler
+38,pria,Amil,Ramadhan
+51,pria,Lainnya,Reguler
+32,wanita,Auditor,Ramadhan
+40,pria,PNS,Reguler
+31,pria,Industri,Ramadhan
+38,wanita,Lainnya,Reguler
+46,pria,Amil,Reguler
+30,pria,Konsultan,Reguler
+41,pria,Wiraswasta,Reguler
+30,wanita,Pegawai Swasta,Reguler
+40,pria,PNS,Reguler
+31,wanita,Staff,Reguler
+34,pria,Amil,Kurban
+35,pria,Energi,Reguler
+38,wanita,Lainnya,Reguler
+49,pria,Tidak Bekerja,Kurban
+40,wanita,Tidak Bekerja,Reguler
+40,pria,Amil,Reguler
+25,wanita,Pegawai Swasta,Reguler
+39,pria,IT,Reguler
+48,pria,Amil,Kurban
+38,wanita,Lainnya,Reguler
+52,pria,Tidak Bekerja,Reguler
+41,wanita,Amil,Ramadhan
+31,pria,Amil,Reguler
+35,pria,Industri,Reguler
+38,pria,Amil,Ramadhan
+53,pria,PNS,Ramadhan
+39,pria,Industri,Kurban
+32,pria,IT,Reguler
+69,pria,Amil,Ramadhan
+33,pria,Konsultan,Ramadhan
+30,pria,Pegawai Swasta,Reguler
+40,wanita,Konsultan,Reguler
+37,pria,Amil,Ramadhan
+44,pria,Wiraswasta,Reguler
+40,wanita,Wiraswasta,Ramadhan
+65,pria,Wiraswasta,Reguler
+22,pria,Amil,Reguler
+40,pria,Tidak Bekerja,Reguler
+46,pria,PNS,Ramadhan
+33,pria,Konsultan,Reguler
+31,pria,Amil,Reguler
+32,pria,Lainnya,Reguler
+29,pria,Amil,Ramadhan
+29,pria,Konsultan,Reguler
+32,pria,Pegawai Swasta,Reguler
+51,pria,Lainnya,Kurban
+39,pria,Amil,Reguler
+33,pria,Konsultan,Kurban
+30,wanita,PNS,Reguler
+37,pria,Tidak Bekerja,Reguler
+30,pria,PNS,Kurban
+33,wanita,Amil,Reguler
+41,pria,Staff,Ramadhan
+38,pria,Staff,Kurban
+33,wanita,Amil,Kurban
+53,pria,PNS,Ramadhan
+46,pria,Wiraswasta,Reguler
+49,pria,Lainnya,Reguler
+50,pria,Konsultan,Ramadhan
+34,pria,Lainnya,Reguler
+38,pria,Wiraswasta,Reguler
+37,pria,Amil,Kurban
+40,wanita,Konsultan,Reguler
+31,pria,Amil,Reguler
+48,pria,Amil,Reguler
+46,pria,Konsultan,Reguler
+36,wanita,Amil,Reguler
+36,wanita,Freelancer,Ramadhan
+30,pria,Kesehatan,Reguler
+39,pria,PNS,Reguler
+37,wanita,Amil,Reguler
+29,wanita,Lainnya,Kurban
+30,pria,Amil,Reguler
+30,pria,Kesehatan,Ramadhan
+32,pria,Amil,Kurban
+42,pria,Tidak Bekerja,Reguler
+51,pria,PNS,Ramadhan
+32,pria,Pegawai Swasta,Reguler
+36,pria,Amil,Reguler
+39,pria,Amil,Reguler
+47,pria,Amil,Kurban
+41,pria,Amil,Reguler
+40,pria,Tidak Bekerja,Ramadhan
+48,pria,Amil,Reguler
+34,pria,Industri,Kurban
+48,pria,Amil,Reguler
+45,pria,Amil,Reguler
+37,pria,PNS,Reguler
+39,wanita,Amil,Kurban
+37,pria,Tidak Bekerja,Reguler
+28,pria,Amil,Reguler
+40,pria,Tidak Bekerja,Reguler
+42,pria,Tidak Bekerja,Reguler
+36,pria,Pegawai Swasta,Reguler
+31,pria,PNS,Reguler
+40,pria,Tidak Bekerja,Reguler
+31,pria,Amil,Reguler
+42,pria,PNS,Reguler
+39,pria,Amil,Reguler
+52,pria,Pegawai Swasta,Reguler
+29,wanita,Akuntansi,Reguler
+57,pria,Lainnya,Reguler
+39,pria,Akuntansi,Reguler
+38,pria,Amil,Ramadhan
+37,pria,Tidak Bekerja,Reguler
+33,pria,Energi,Reguler
+33,wanita,Tidak Bekerja,Kurban
+38,pria,Amil,Reguler
+49,pria,PNS,Ramadhan
+44,pria,Amil,Reguler
+41,pria,Amil,Reguler
+41,pria,Amil,Reguler
+51,pria,Pegawai Swasta,Reguler
+41,pria,Amil,Reguler
+40,pria,Tidak Bekerja,Ramadhan
+42,pria,Tidak Bekerja,Kurban
+35,pria,Pegawai Swasta,Reguler
+40,pria,Tidak Bekerja,Reguler
+51,pria,Lainnya,Reguler
+35,wanita,PNS,Reguler
+29,pria,Pegawai Swasta,Reguler
+41,pria,Lainnya,Reguler
+57,pria,Tidak Bekerja,Reguler
+39,pria,Wiraswasta,Reguler
+33,wanita,Tidak Bekerja,Reguler
+36,pria,Amil,Reguler
+32,pria,IT,Reguler
+42,pria,PNS,Reguler
+39,wanita,Pegawai Swasta,Reguler
+35,wanita,Pegawai Swasta,Reguler
+42,pria,Tidak Bekerja,Reguler
+63,wanita,Pegawai Swasta,Reguler
+41,pria,Amil,Kurban
+53,pria,PNS,Reguler
+51,pria,PNS,Reguler
+35,pria,Pegawai Swasta,Reguler
+37,pria,Lainnya,Ramadhan
+27,wanita,Amil,Reguler
+32,wanita,PNS,Ramadhan
+42,pria,Tidak Bekerja,Reguler
+41,pria,Amil,Kurban
+33,pria,Amil,Reguler
+39,pria,IT,Reguler
+69,pria,Amil,Kurban
+37,wanita,Auditor,Ramadhan
+46,pria,PNS,Kurban
+33,pria,PNS,Reguler
+22,pria,Amil,Ramadhan
+35,pria,Pegawai Swasta,Reguler
+39,pria,Amil,Reguler
+40,pria,PNS,Reguler
+31,pria,Amil,Reguler
+41,pria,Wiraswasta,Ramadhan
+51,pria,PNS,Reguler
+41,pria,Staff,Reguler
+38,pria,Amil,Reguler
+35,pria,Industri,Ramadhan
+41,pria,Amil,Reguler
+55,pria,PNS,Kurban
+30,pria,Kesehatan,Reguler
+42,pria,Tidak Bekerja,Reguler
+32,pria,Lainnya,Ramadhan
+33,pria,Konsultan,Reguler
+40,wanita,Konsultan,Reguler
+45,pria,Amil,Reguler
+33,pria,Lainnya,Reguler
+41,pria,Lainnya,Reguler
+34,pria,Wiraswasta,Reguler
+37,wanita,Auditor,Reguler
+38,wanita,Lainnya,Kurban
+33,wanita,Akuntansi,Reguler
+39,pria,PNS,Reguler
+47,pria,Amil,Reguler
+41,pria,Lainnya,Reguler
+32,pria,Pegawai Swasta,Reguler
+34,wanita,Amil,Kurban
+33,pria,PNS,Kurban
+40,wanita,Konsultan,Reguler
+33,pria,Amil,Reguler
+37,pria,Teknisi,Reguler
+35,pria,PNS,Reguler
+44,pria,Industri,Kurban
+39,pria,PNS,Reguler
+49,pria,Lainnya,Kurban
+33,pria,Lainnya,Ramadhan
+53,pria,PNS,Reguler
+42,pria,Wiraswasta,Reguler
+40,pria,Tidak Bekerja,Reguler
+33,pria,PNS,Reguler
+29,wanita,Lainnya,Reguler
+45,pria,Amil,Kurban
+40,pria,Tidak Bekerja,Ramadhan
+42,pria,Tidak Bekerja,Reguler
+40,wanita,Tidak Bekerja,Reguler
+35,pria,PNS,Reguler
+35,pria,Teknisi,Reguler
+38,pria,Tidak Bekerja,Ramadhan
+39,pria,Staff,Reguler
+31,pria,Staff,Reguler
+32,pria,Lainnya,Reguler
+41,pria,Amil,Kurban
+55,wanita,Wiraswasta,Ramadhan
+40,pria,Tidak Bekerja,Reguler
+40,pria,Akuntansi,Reguler
+46,pria,Konsultan,Reguler
+34,pria,Marketing,Ramadhan
+47,pria,IT,Reguler
+36,pria,Wiraswasta,Ramadhan
+45,wanita,Amil,Kurban
+30,pria,Konsultan,Reguler
+33,wanita,Pegawai Swasta,Kurban
+30,wanita,PNS,Reguler
+36,pria,Tidak Bekerja,Reguler
+53,wanita,Tidak Bekerja,Reguler
+47,pria,Amil,Reguler
+28,pria,Konsultan,Ramadhan
+39,pria,Amil,Ramadhan
+43,pria,Tidak Bekerja,Reguler
+40,pria,PNS,Reguler
+40,wanita,Konsultan,Reguler
+39,pria,Amil,Reguler
+37,wanita,Amil,Reguler
+37,pria,Amil,Reguler
+56,pria,Lainnya,Ramadhan
+49,wanita,Wiraswasta,Reguler
+36,pria,PNS,Reguler
+54,pria,PNS,Ramadhan
+45,pria,Amil,Kurban
+43,wanita,Tidak Bekerja,Ramadhan
+28,pria,Amil,Kurban
+28,pria,Amil,Ramadhan
+36,pria,Amil,Kurban
+37,wanita,Auditor,Reguler
+51,pria,Lainnya,Reguler
+45,pria,Amil,Kurban
+47,pria,Industri,Reguler
+69,pria,Lainnya,Ramadhan
+45,pria,Amil,Reguler
+32,pria,PNS,Ramadhan
+35,pria,Amil,Kurban
+40,pria,Staff,Reguler
+40,pria,Tidak Bekerja,Reguler
+35,pria,Pegawai Swasta,Ramadhan
+51,pria,Lainnya,Ramadhan
+30,wanita,Pegawai Swasta,Reguler
+27,wanita,Amil,Reguler
+30,pria,Marketing,Reguler
+38,wanita,Lainnya,Reguler
+40,wanita,Konsultan,Reguler
